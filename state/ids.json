@@ -47,6 +47,12 @@
   "tmdb_id": 435,
   "year": 2004
  },
+ "movie|drive the pretenders": {
+  "id_match": "exact",
+  "imdb_id": "tt37180686",
+  "tmdb_id": 1596275,
+  "year": 2026
+ },
  "movie|final destination bloodlines": {
   "id_match": "exact",
   "imdb_id": "tt9619824",
@@ -143,10 +149,22 @@
   "tmdb_id": 1381078,
   "year": 2026
  },
+ "movie|masterplan": {
+  "id_match": "exact",
+  "imdb_id": "tt38672588",
+  "tmdb_id": 1561726,
+  "year": 2026
+ },
  "movie|masters of the universe": {
   "id_match": "exact",
   "imdb_id": "tt0427340",
   "tmdb_id": 454639,
+  "year": 2026
+ },
+ "movie|mirzapur the movie": {
+  "id_match": "exact",
+  "imdb_id": "tt34339725",
+  "tmdb_id": 1378537,
   "year": 2026
  },
  "movie|moana": {
@@ -269,6 +287,12 @@
   "tmdb_id": 225385,
   "year": 2024
  },
+ "tv|campus drivers": {
+  "id_match": "exact",
+  "imdb_id": "tt39943756",
+  "tmdb_id": 303044,
+  "year": 2026
+ },
  "tv|carrie": {
   "id_match": "exact",
   "imdb_id": "tt11540908",
@@ -352,6 +376,12 @@
   "imdb_id": "tt7631058",
   "tmdb_id": 84773,
   "year": 2022
+ },
+ "tv|love in disguise": {
+  "id_match": "exact",
+  "imdb_id": "tt45246384",
+  "tmdb_id": 303745,
+  "year": 2026
  },
  "tv|love is blind": {
   "id_match": "exact",

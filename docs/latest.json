@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T16:54:46-05:00",
+ "generated_at": "2026-11-14T16:57:47-05:00",
  "status": {
   "netflix_movies": "ok",
   "netflix_series": "ok",
@@ -28,7 +28,7 @@
    "id_match": "exact",
    "raw_title": "A Dog's Perfect Christmas",
    "source_url": "https://www.netflix.com/tudum/top10/",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -49,7 +49,7 @@
    "id_match": "ambiguous",
    "raw_title": "Heist",
    "source_url": "https://www.netflix.com/tudum/top10/",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -70,7 +70,7 @@
    "id_match": "exact",
    "raw_title": "Final Destination: Bloodlines",
    "source_url": "https://www.netflix.com/tudum/top10/",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -91,7 +91,7 @@
    "id_match": "exact",
    "raw_title": "The Day After Tomorrow",
    "source_url": "https://www.netflix.com/tudum/top10/",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -112,7 +112,7 @@
    "id_match": "exact",
    "raw_title": "Sing 2",
    "source_url": "https://www.netflix.com/tudum/top10/",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -133,7 +133,7 @@
    "id_match": "exact",
    "raw_title": "Sniper: The Last Stand",
    "source_url": "https://www.netflix.com/tudum/top10/",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -154,7 +154,7 @@
    "id_match": "exact",
    "raw_title": "Thanksgiving",
    "source_url": "https://www.netflix.com/tudum/top10/",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -175,7 +175,7 @@
    "id_match": "exact",
    "raw_title": "Sing",
    "source_url": "https://www.netflix.com/tudum/top10/",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -196,7 +196,7 @@
    "id_match": "exact",
    "raw_title": "Kidnapped in Her Own Home: The Martha Carelli Story",
    "source_url": "https://www.netflix.com/tudum/top10/",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -217,7 +217,7 @@
    "id_match": "exact",
    "raw_title": "KPop Demon Hunters",
    "source_url": "https://www.netflix.com/tudum/top10/",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -238,7 +238,7 @@
    "id_match": "exact",
    "raw_title": "Taken: Natalee Holloway: Season 1",
    "source_url": "https://www.netflix.com/tudum/top10/tv",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -259,7 +259,7 @@
    "id_match": "exact",
    "raw_title": "The One About Matthew Perry: Season 1",
    "source_url": "https://www.netflix.com/tudum/top10/tv",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -280,7 +280,7 @@
    "id_match": "exact",
    "raw_title": "Nobody Wants This: Season 3",
    "source_url": "https://www.netflix.com/tudum/top10/tv",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -301,7 +301,7 @@
    "id_match": "exact",
    "raw_title": "Black Doves: Season 2",
    "source_url": "https://www.netflix.com/tudum/top10/tv",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -322,7 +322,7 @@
    "id_match": "exact",
    "raw_title": "Raw: 2026 - November 2, 2026",
    "source_url": "https://www.netflix.com/tudum/top10/tv",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -343,7 +343,7 @@
    "id_match": "exact",
    "raw_title": "Below: Limited Series",
    "source_url": "https://www.netflix.com/tudum/top10/tv",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -364,7 +364,7 @@
    "id_match": "exact",
    "raw_title": "Love Is Blind: S11: Boston",
    "source_url": "https://www.netflix.com/tudum/top10/tv",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -385,7 +385,7 @@
    "id_match": "exact",
    "raw_title": "Will Trent: Season 1",
    "source_url": "https://www.netflix.com/tudum/top10/tv",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -406,7 +406,7 @@
    "id_match": "exact",
    "raw_title": "The Diplomat: Season 4",
    "source_url": "https://www.netflix.com/tudum/top10/tv",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -427,7 +427,7 @@
    "id_match": "exact",
    "raw_title": "East of Eden: Limited Series",
    "source_url": "https://www.netflix.com/tudum/top10/tv",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -448,7 +448,7 @@
    "id_match": "exact",
    "raw_title": "The Mongoose",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -467,9 +467,9 @@
    "imdb_id": "tt37522541",
    "tmdb_id": 1507696,
    "id_match": "exact",
-   "raw_title": "Apocalypse Z: New World / Apocalipsis Z: Nuevo Mundo (International Original – Spain)",
+   "raw_title": "Apocalypse Z: New World / Apocalipsis Z: Nuevo Mundo",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -482,15 +482,15 @@
    "period_end": "2026-11-08",
    "type": "movie",
    "rank": 3,
-   "title": "Drive - The Pretenders (International Original – Germany)",
+   "title": "Drive - The Pretenders",
    "season": null,
-   "year": null,
-   "imdb_id": null,
-   "tmdb_id": null,
-   "id_match": "none",
-   "raw_title": "Drive - The Pretenders (International Original – Germany)",
+   "year": 2026,
+   "imdb_id": "tt37180686",
+   "tmdb_id": 1596275,
+   "id_match": "exact",
+   "raw_title": "Drive - The Pretenders",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -511,7 +511,7 @@
    "id_match": "exact",
    "raw_title": "Love of Your Life",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -524,15 +524,15 @@
    "period_end": "2026-11-08",
    "type": "movie",
    "rank": 5,
-   "title": "Mirzapur: The Movie (International Original – India)",
+   "title": "Mirzapur: The Movie",
    "season": null,
-   "year": null,
-   "imdb_id": null,
-   "tmdb_id": null,
-   "id_match": "none",
-   "raw_title": "Mirzapur: The Movie (International Original – India)",
+   "year": 2026,
+   "imdb_id": "tt34339725",
+   "tmdb_id": 1378537,
+   "id_match": "exact",
+   "raw_title": "Mirzapur: The Movie",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -545,15 +545,15 @@
    "period_end": "2026-11-08",
    "type": "movie",
    "rank": 6,
-   "title": "Masterplan (International Original – France, Italy)",
+   "title": "Masterplan",
    "season": null,
-   "year": null,
-   "imdb_id": null,
-   "tmdb_id": null,
-   "id_match": "none",
-   "raw_title": "Masterplan (International Original – France, Italy)",
+   "year": 2026,
+   "imdb_id": "tt38672588",
+   "tmdb_id": 1561726,
+   "id_match": "exact",
+   "raw_title": "Masterplan",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -574,7 +574,7 @@
    "id_match": "exact",
    "raw_title": "Ali G: Who Iz I?",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -595,7 +595,7 @@
    "id_match": "exact",
    "raw_title": "The Love Hypothesis",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -614,9 +614,9 @@
    "imdb_id": "tt27599851",
    "tmdb_id": 1118031,
    "id_match": "exact",
-   "raw_title": "Apocalypse Z: The Beginning of the End / Apocalipsis Z: El principio del fin (International Original – Spain)",
+   "raw_title": "Apocalypse Z: The Beginning of the End / Apocalipsis Z: El principio del fin",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -637,7 +637,7 @@
    "id_match": "exact",
    "raw_title": "Masters of the Universe",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -658,7 +658,7 @@
    "id_match": "exact",
    "raw_title": "The Terminal List",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -671,15 +671,15 @@
    "period_end": "2026-11-08",
    "type": "tv",
    "rank": 2,
-   "title": "Campus Drivers (International Original – France)",
+   "title": "Campus Drivers",
    "season": null,
-   "year": null,
-   "imdb_id": null,
-   "tmdb_id": null,
-   "id_match": "none",
-   "raw_title": "Campus Drivers (International Original – France)",
+   "year": 2026,
+   "imdb_id": "tt39943756",
+   "tmdb_id": 303044,
+   "id_match": "exact",
+   "raw_title": "Campus Drivers",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -700,7 +700,7 @@
    "id_match": "exact",
    "raw_title": "Carrie",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -721,7 +721,7 @@
    "id_match": "exact",
    "raw_title": "Reacher",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -742,7 +742,7 @@
    "id_match": "exact",
    "raw_title": "The Greatest",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -763,7 +763,7 @@
    "id_match": "exact",
    "raw_title": "Neagley",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -784,7 +784,7 @@
    "id_match": "exact",
    "raw_title": "Off Campus",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -797,15 +797,15 @@
    "period_end": "2026-11-08",
    "type": "tv",
    "rank": 8,
-   "title": "Love in Disguise (International Original – South Korea)",
+   "title": "Love in Disguise",
    "season": null,
-   "year": null,
-   "imdb_id": null,
-   "tmdb_id": null,
-   "id_match": "none",
-   "raw_title": "Love in Disguise (International Original – South Korea)",
+   "year": 2026,
+   "imdb_id": "tt45246384",
+   "tmdb_id": 303745,
+   "id_match": "exact",
+   "raw_title": "Love in Disguise",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -826,7 +826,7 @@
    "id_match": "exact",
    "raw_title": "The Lord of the Rings: The Rings of Power",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -839,15 +839,15 @@
    "period_end": "2026-11-08",
    "type": "tv",
    "rank": 10,
-   "title": "Love Transit 35+ (International Original – Japan)",
+   "title": "Love Transit 35+",
    "season": null,
-   "year": null,
+   "year": 2026,
    "imdb_id": null,
-   "tmdb_id": null,
-   "id_match": "none",
-   "raw_title": "Love Transit 35+ (International Original – Japan)",
+   "tmdb_id": 341645,
+   "id_match": "exact",
+   "raw_title": "Love Transit 35+",
    "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -856,8 +856,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "movie",
    "rank": 1,
    "title": "The 12 Dates of Christmas",
@@ -868,7 +868,7 @@
    "id_match": "exact",
    "raw_title": "The 12 Dates of Christmas",
    "source_url": "https://www.hulu.com/hub/movies/collections/10022",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -877,8 +877,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "movie",
    "rank": 2,
    "title": "Super Troopers 3",
@@ -889,7 +889,7 @@
    "id_match": "exact",
    "raw_title": "Super Troopers 3",
    "source_url": "https://www.hulu.com/hub/movies/collections/10022",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -898,8 +898,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "movie",
    "rank": 3,
    "title": "The Hunger Games",
@@ -910,7 +910,7 @@
    "id_match": "exact",
    "raw_title": "The Hunger Games",
    "source_url": "https://www.hulu.com/hub/movies/collections/10022",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -919,8 +919,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "movie",
    "rank": 4,
    "title": "The Hunger Games: Catching Fire",
@@ -931,7 +931,7 @@
    "id_match": "exact",
    "raw_title": "The Hunger Games: Catching Fire",
    "source_url": "https://www.hulu.com/hub/movies/collections/10022",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -940,8 +940,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "movie",
    "rank": 5,
    "title": "Why Him?",
@@ -952,7 +952,7 @@
    "id_match": "exact",
    "raw_title": "Why Him?",
    "source_url": "https://www.hulu.com/hub/movies/collections/10022",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -961,8 +961,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "movie",
    "rank": 6,
    "title": "The Holiday",
@@ -973,7 +973,7 @@
    "id_match": "exact",
    "raw_title": "The Holiday",
    "source_url": "https://www.hulu.com/hub/movies/collections/10022",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -982,8 +982,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "movie",
    "rank": 7,
    "title": "A Bad Moms Christmas",
@@ -994,7 +994,7 @@
    "id_match": "exact",
    "raw_title": "A Bad Moms Christmas",
    "source_url": "https://www.hulu.com/hub/movies/collections/10022",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1003,8 +1003,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "movie",
    "rank": 8,
    "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
@@ -1015,7 +1015,7 @@
    "id_match": "exact",
    "raw_title": "The Hunger Games: The Ballad of Songbirds and Snakes",
    "source_url": "https://www.hulu.com/hub/movies/collections/10022",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1024,8 +1024,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "movie",
    "rank": 9,
    "title": "The Hunger Games: Mockingjay - Part 1",
@@ -1036,7 +1036,7 @@
    "id_match": "exact",
    "raw_title": "The Hunger Games: Mockingjay - Part 1",
    "source_url": "https://www.hulu.com/hub/movies/collections/10022",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1045,8 +1045,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "movie",
    "rank": 10,
    "title": "Jumanji: Welcome to the Jungle",
@@ -1057,7 +1057,7 @@
    "id_match": "exact",
    "raw_title": "Jumanji: Welcome to the Jungle",
    "source_url": "https://www.hulu.com/hub/movies/collections/10022",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1066,8 +1066,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "tv",
    "rank": 1,
    "title": "The Secret Lives Of Mormon Wives: Orange County",
@@ -1078,7 +1078,7 @@
    "id_match": "exact",
    "raw_title": "The Secret Lives Of Mormon Wives: Orange County",
    "source_url": "https://www.hulu.com/hub/tv/collections/9979",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1087,8 +1087,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "tv",
    "rank": 2,
    "title": "9-1-1",
@@ -1099,7 +1099,7 @@
    "id_match": "exact",
    "raw_title": "9-1-1",
    "source_url": "https://www.hulu.com/hub/tv/collections/9979",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1108,8 +1108,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "tv",
    "rank": 3,
    "title": "Grey's Anatomy",
@@ -1120,7 +1120,7 @@
    "id_match": "exact",
    "raw_title": "Grey's Anatomy",
    "source_url": "https://www.hulu.com/hub/tv/collections/9979",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1129,8 +1129,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "tv",
    "rank": 4,
    "title": "9-1-1: Nashville",
@@ -1141,7 +1141,7 @@
    "id_match": "exact",
    "raw_title": "9-1-1: Nashville",
    "source_url": "https://www.hulu.com/hub/tv/collections/9979",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1150,8 +1150,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "tv",
    "rank": 5,
    "title": "Hell's Kitchen",
@@ -1162,7 +1162,7 @@
    "id_match": "exact",
    "raw_title": "Hell's Kitchen",
    "source_url": "https://www.hulu.com/hub/tv/collections/9979",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1171,8 +1171,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "tv",
    "rank": 6,
    "title": "The Kardashians",
@@ -1183,7 +1183,7 @@
    "id_match": "exact",
    "raw_title": "The Kardashians",
    "source_url": "https://www.hulu.com/hub/tv/collections/9979",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1192,8 +1192,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "tv",
    "rank": 7,
    "title": "Abbott Elementary",
@@ -1204,7 +1204,7 @@
    "id_match": "exact",
    "raw_title": "Abbott Elementary",
    "source_url": "https://www.hulu.com/hub/tv/collections/9979",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1213,8 +1213,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "tv",
    "rank": 8,
    "title": "General Hospital",
@@ -1225,7 +1225,7 @@
    "id_match": "exact",
    "raw_title": "General Hospital",
    "source_url": "https://www.hulu.com/hub/tv/collections/9979",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1234,8 +1234,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "tv",
    "rank": 9,
    "title": "Reasonable Doubt",
@@ -1246,7 +1246,7 @@
    "id_match": "exact",
    "raw_title": "Reasonable Doubt",
    "source_url": "https://www.hulu.com/hub/tv/collections/9979",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1255,8 +1255,8 @@
    "chart": "daily",
    "region": "US",
    "official": true,
-   "period_start": null,
-   "period_end": null,
+   "period_start": "2026-11-14",
+   "period_end": "2026-11-14",
    "type": "tv",
    "rank": 10,
    "title": "Special Forces: World's Toughest Test",
@@ -1267,7 +1267,7 @@
    "id_match": "exact",
    "raw_title": "Special Forces: World's Toughest Test",
    "source_url": "https://www.hulu.com/hub/tv/collections/9979",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1288,7 +1288,7 @@
    "id_match": "exact",
    "raw_title": "Home Alone",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1309,7 +1309,7 @@
    "id_match": "exact",
    "raw_title": "Home Alone 2: Lost in New York",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1330,7 +1330,7 @@
    "id_match": "exact",
    "raw_title": "Toy Story 5",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1351,7 +1351,7 @@
    "id_match": "exact",
    "raw_title": "Moana",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1372,7 +1372,7 @@
    "id_match": "exact",
    "raw_title": "Frozen",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1393,7 +1393,7 @@
    "id_match": "exact",
    "raw_title": "The Santa Clause",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1414,7 +1414,7 @@
    "id_match": "exact",
    "raw_title": "Monsters, Inc.",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1435,7 +1435,7 @@
    "id_match": "exact",
    "raw_title": "Coco",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1456,7 +1456,7 @@
    "id_match": "exact",
    "raw_title": "The Santa Clause 2",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1477,7 +1477,7 @@
    "id_match": "exact",
    "raw_title": "Finding Nemo",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1498,7 +1498,7 @@
    "id_match": "exact",
    "raw_title": "The Secret Lives of Mormon Wives: Orange County",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1519,7 +1519,7 @@
    "id_match": "exact",
    "raw_title": "VisionQuest",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1540,7 +1540,7 @@
    "id_match": "exact",
    "raw_title": "Dancing with the Stars",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1561,7 +1561,7 @@
    "id_match": "exact",
    "raw_title": "Abbott Elementary",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1582,7 +1582,7 @@
    "id_match": "exact",
    "raw_title": "The Kardashians",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1603,7 +1603,7 @@
    "id_match": "exact",
    "raw_title": "The Remarried Empress",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1624,7 +1624,7 @@
    "id_match": "exact",
    "raw_title": "Best Medicine",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1645,7 +1645,7 @@
    "id_match": "exact",
    "raw_title": "All's Fair",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1660,13 +1660,13 @@
    "rank": 9,
    "title": "Scrubs",
    "season": null,
-   "year": 2001,
-   "imdb_id": "tt0285403",
-   "tmdb_id": 4556,
+   "year": 2026,
+   "imdb_id": "tt40197357",
+   "tmdb_id": 295778,
    "id_match": "ambiguous",
    "raw_title": "Scrubs",
    "source_url": "https://streamscope.app/disney-plus",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1687,7 +1687,7 @@
    "id_match": "exact",
    "raw_title": "The Invite",
    "source_url": "https://www.showlabs.tv/en/hbo-top-10",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1708,7 +1708,7 @@
    "id_match": "exact",
    "raw_title": "Friends",
    "source_url": "https://www.showlabs.tv/en/hbo-top-10",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1729,7 +1729,7 @@
    "id_match": "exact",
    "raw_title": "Game of Thrones",
    "source_url": "https://www.showlabs.tv/en/hbo-top-10",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1750,7 +1750,7 @@
    "id_match": "exact",
    "raw_title": "The Sopranos",
    "source_url": "https://www.showlabs.tv/en/hbo-top-10",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1771,7 +1771,7 @@
    "id_match": "exact",
    "raw_title": "The Big Bang Theory",
    "source_url": "https://www.showlabs.tv/en/hbo-top-10",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1792,7 +1792,7 @@
    "id_match": "exact",
    "raw_title": "The Gilded Age",
    "source_url": "https://www.showlabs.tv/en/hbo-top-10",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1813,7 +1813,7 @@
    "id_match": "exact",
    "raw_title": "WAR",
    "source_url": "https://www.showlabs.tv/en/hbo-top-10",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1834,7 +1834,7 @@
    "id_match": "exact",
    "raw_title": "Last Week Tonight with John Oliver",
    "source_url": "https://www.showlabs.tv/en/hbo-top-10",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1855,7 +1855,7 @@
    "id_match": "exact",
    "raw_title": "Nathan for You",
    "source_url": "https://www.showlabs.tv/en/hbo-top-10",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   },
   {
@@ -1876,7 +1876,7 @@
    "id_match": "exact",
    "raw_title": "Rick and Morty",
    "source_url": "https://www.showlabs.tv/en/hbo-top-10",
-   "fetched_at": "2026-11-14T16:54:46-05:00",
+   "fetched_at": "2026-11-14T16:57:47-05:00",
    "stale": false
   }
  ]
