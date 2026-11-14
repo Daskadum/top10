@@ -196,29 +196,28 @@ def lookup_ids(title, kind, cache):
         return blank
 
 
-def build_rows(s, data, fetched_at, cache):
-    rows = []
+def list_names(s):
+    return {"movies": ["movies"], "series": ["series"]}.get(s["want"], ["movies", "series"])
+
+
+def build_lists(s, data, cache):
     if s["chart"] == "daily" and not data["period_end"]:
         data["period_start"] = data["period_end"] = f"{NOW:%Y-%m-%d}"
-    lists = {"movies": data["movies"], "series": data["series"]}
-    if s["want"] == "movies":
-        lists["series"] = []
-    if s["want"] == "series":
-        lists["movies"] = []
-    for name, items in lists.items():
+    out = {}
+    for name in list_names(s):
         kind = "movie" if name == "movies" else "tv"
-        for it in sorted(items, key=lambda i: i["rank"])[:10]:
+        items = []
+        for it in sorted(data[name], key=lambda i: i["rank"])[:10]:
             title, season = clean_title(it["title"])
             ids = lookup_ids(title, kind, cache)
-            rows.append({
-                "source": s["key"], "service": s["service"], "chart": s["chart"], "region": s["region"],
-                "official": s["official"], "period_start": data["period_start"] or None,
-                "period_end": data["period_end"] or None, "type": kind, "rank": it["rank"], "title": title,
-                "season": season, "year": ids["year"], "imdb_id": ids["imdb_id"], "tmdb_id": ids["tmdb_id"],
-                "id_match": ids["id_match"], "raw_title": it["title"], "source_url": s["url"],
-                "fetched_at": fetched_at, "stale": False,
-            })
-    return rows
+            item = {"rank": it["rank"], "title": title, "season": season, "year": ids["year"],
+                    "imdb_id": ids["imdb_id"], "tmdb_id": ids["tmdb_id"], "id_match": ids["id_match"]}
+            if it["title"] != title:
+                item["raw_title"] = it["title"]
+            items.append(item)
+        out[name] = {"source_url": s["url"], "period": [data["period_start"] or None, data["period_end"] or None],
+                     "stale": False, "items": items}
+    return out
 
 
 def main():
@@ -229,7 +228,7 @@ def main():
     cache_file = STATE / "ids.json"
     cache = json.loads(cache_file.read_text()) if cache_file.exists() else {}
     prev_file = OUT / "latest.json"
-    prev = json.loads(prev_file.read_text()) if prev_file.exists() else {"rows": []}
+    prev = json.loads(prev_file.read_text()) if prev_file.exists() else {}
 
     key, tok = os.environ.get("ANTHROPIC_API_KEY", ""), os.environ.get("TMDB_READ_TOKEN", "")
     if not key.startswith("sk-ant-"):
@@ -247,8 +246,11 @@ def main():
 
     client = anthropic.Anthropic()
     fetched_at = NOW.isoformat(timespec="seconds")
-    rows = []
+    services = {}
     for s in SOURCES:
+        svc = services.setdefault(s["service"], {"official": s["official"], "region": s["region"], "chart": s["chart"]})
+        if s["want"] == "combined":
+            svc["combined_ranks"] = True
         new = None
         if s["key"] in texts:
             try:
@@ -257,18 +259,20 @@ def main():
                 if issues:
                     status[s["key"]] = "; ".join(issues)
                 else:
-                    new = build_rows(s, data, fetched_at, cache)
+                    new = build_lists(s, data, cache)
             except Exception as e:
                 status[s["key"]] = f"extract failed: {e}".splitlines()[0][:200]
         if new:
             status[s["key"]] = "ok"
-            rows += new
+            svc.update(new)
         else:
-            old = [dict(r, stale=True) for r in prev["rows"] if r.get("source") == s["key"]]
-            rows += old
-            print(f"  {s['key']}: {status[s['key']]} (kept {len(old)} old rows)")
+            old = prev.get("services", {}).get(s["service"], {})
+            kept = [n for n in list_names(s) if n in old]
+            for n in kept:
+                svc[n] = dict(old[n], stale=True, error=status[s["key"]])
+            print(f"  {s['key']}: {status[s['key']]} (kept old {kept or 'nothing'})")
 
-    doc = {"generated_at": fetched_at, "status": status, "rows": rows}
+    doc = {"generated_at": fetched_at, "services": services}
     payload = json.dumps(doc, indent=1, ensure_ascii=False)
     prev_file.write_text(payload)
     (OUT / "data" / f"{NOW:%Y-%m-%d}.json").write_text(payload)
