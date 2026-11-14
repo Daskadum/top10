@@ -1,1 +1,470 @@
-{}
+{
+ "movie|12 dates of christmas": {
+  "id_match": "exact",
+  "imdb_id": "tt39219651",
+  "tmdb_id": 1600653,
+  "year": 2026
+ },
+ "movie|a bad moms christmas": {
+  "id_match": "exact",
+  "imdb_id": "tt6359956",
+  "tmdb_id": 431530,
+  "year": 2017
+ },
+ "movie|a dogs perfect christmas": {
+  "id_match": "exact",
+  "imdb_id": "tt38515310",
+  "tmdb_id": 1570488,
+  "year": 2026
+ },
+ "movie|ali g who iz i": {
+  "id_match": "exact",
+  "imdb_id": "tt43655467",
+  "tmdb_id": 1727734,
+  "year": 2026
+ },
+ "movie|apocalypse z new world": {
+  "id_match": "exact",
+  "imdb_id": "tt37522541",
+  "tmdb_id": 1507696,
+  "year": 2026
+ },
+ "movie|apocalypse z the beginning of the end": {
+  "id_match": "exact",
+  "imdb_id": "tt27599851",
+  "tmdb_id": 1118031,
+  "year": 2024
+ },
+ "movie|coco": {
+  "id_match": "exact",
+  "imdb_id": "tt2380307",
+  "tmdb_id": 354912,
+  "year": 2017
+ },
+ "movie|day after tomorrow": {
+  "id_match": "exact",
+  "imdb_id": "tt0319262",
+  "tmdb_id": 435,
+  "year": 2004
+ },
+ "movie|final destination bloodlines": {
+  "id_match": "exact",
+  "imdb_id": "tt9619824",
+  "tmdb_id": 574475,
+  "year": 2025
+ },
+ "movie|finding nemo": {
+  "id_match": "exact",
+  "imdb_id": "tt0266543",
+  "tmdb_id": 12,
+  "year": 2003
+ },
+ "movie|frozen": {
+  "id_match": "exact",
+  "imdb_id": "tt2294629",
+  "tmdb_id": 109445,
+  "year": 2013
+ },
+ "movie|holiday": {
+  "id_match": "exact",
+  "imdb_id": "tt0457939",
+  "tmdb_id": 1581,
+  "year": 2006
+ },
+ "movie|home alone": {
+  "id_match": "exact",
+  "imdb_id": "tt0099785",
+  "tmdb_id": 771,
+  "year": 1990
+ },
+ "movie|home alone 2 lost in new york": {
+  "id_match": "exact",
+  "imdb_id": "tt0104431",
+  "tmdb_id": 772,
+  "year": 1992
+ },
+ "movie|hunger games": {
+  "id_match": "exact",
+  "imdb_id": "tt1392170",
+  "tmdb_id": 70160,
+  "year": 2012
+ },
+ "movie|hunger games catching fire": {
+  "id_match": "exact",
+  "imdb_id": "tt1951264",
+  "tmdb_id": 101299,
+  "year": 2013
+ },
+ "movie|hunger games mockingjay part 1": {
+  "id_match": "exact",
+  "imdb_id": "tt1951265",
+  "tmdb_id": 131631,
+  "year": 2014
+ },
+ "movie|hunger games the ballad of songbirds and snakes": {
+  "id_match": "exact",
+  "imdb_id": "tt10545296",
+  "tmdb_id": 695721,
+  "year": 2023
+ },
+ "movie|invite": {
+  "id_match": "exact",
+  "imdb_id": "tt14173636",
+  "tmdb_id": 950028,
+  "year": 2026
+ },
+ "movie|jumanji welcome to the jungle": {
+  "id_match": "exact",
+  "imdb_id": "tt2283362",
+  "tmdb_id": 353486,
+  "year": 2017
+ },
+ "movie|kidnapped in her own home the martha carelli story": {
+  "id_match": "exact",
+  "imdb_id": "tt39182249",
+  "tmdb_id": 1665152,
+  "year": 2026
+ },
+ "movie|kpop demon hunters": {
+  "id_match": "exact",
+  "imdb_id": "tt14205554",
+  "tmdb_id": 803796,
+  "year": 2025
+ },
+ "movie|love hypothesis": {
+  "id_match": "exact",
+  "imdb_id": "tt22526100",
+  "tmdb_id": 1032863,
+  "year": 2026
+ },
+ "movie|love of your life": {
+  "id_match": "exact",
+  "imdb_id": "tt34384900",
+  "tmdb_id": 1381078,
+  "year": 2026
+ },
+ "movie|masters of the universe": {
+  "id_match": "exact",
+  "imdb_id": "tt0427340",
+  "tmdb_id": 454639,
+  "year": 2026
+ },
+ "movie|moana": {
+  "id_match": "exact",
+  "imdb_id": "tt27419466",
+  "tmdb_id": 1108427,
+  "year": 2026
+ },
+ "movie|mongoose": {
+  "id_match": "exact",
+  "imdb_id": "tt13611778",
+  "tmdb_id": 1294189,
+  "year": 2026
+ },
+ "movie|monsters inc": {
+  "id_match": "exact",
+  "imdb_id": "tt0198781",
+  "tmdb_id": 585,
+  "year": 2001
+ },
+ "movie|santa clause": {
+  "id_match": "exact",
+  "imdb_id": "tt0111070",
+  "tmdb_id": 11395,
+  "year": 1994
+ },
+ "movie|santa clause 2": {
+  "id_match": "exact",
+  "imdb_id": "tt0304669",
+  "tmdb_id": 9021,
+  "year": 2002
+ },
+ "movie|sing": {
+  "id_match": "exact",
+  "imdb_id": "tt3470600",
+  "tmdb_id": 335797,
+  "year": 2016
+ },
+ "movie|sing 2": {
+  "id_match": "exact",
+  "imdb_id": "tt6467266",
+  "tmdb_id": 438695,
+  "year": 2021
+ },
+ "movie|sniper the last stand": {
+  "id_match": "exact",
+  "imdb_id": "tt34910018",
+  "tmdb_id": 1410082,
+  "year": 2025
+ },
+ "movie|super troopers 3": {
+  "id_match": "exact",
+  "imdb_id": "tt8820258",
+  "tmdb_id": 675871,
+  "year": 2026
+ },
+ "movie|thanksgiving": {
+  "id_match": "exact",
+  "imdb_id": "tt1448754",
+  "tmdb_id": 1071215,
+  "year": 2023
+ },
+ "movie|toy story 5": {
+  "id_match": "exact",
+  "imdb_id": "tt29355505",
+  "tmdb_id": 1084244,
+  "year": 2026
+ },
+ "movie|why him": {
+  "id_match": "exact",
+  "imdb_id": "tt4501244",
+  "tmdb_id": 356305,
+  "year": 2016
+ },
+ "tv|911": {
+  "id_match": "exact",
+  "imdb_id": "tt7235466",
+  "tmdb_id": 75219,
+  "year": 2018
+ },
+ "tv|911 nashville": {
+  "id_match": "exact",
+  "imdb_id": "tt33550053",
+  "tmdb_id": 284838,
+  "year": 2025
+ },
+ "tv|abbott elementary": {
+  "id_match": "exact",
+  "imdb_id": "tt14218830",
+  "tmdb_id": 125935,
+  "year": 2021
+ },
+ "tv|alls fair": {
+  "id_match": "exact",
+  "imdb_id": "tt30291387",
+  "tmdb_id": 258742,
+  "year": 2025
+ },
+ "tv|below": {
+  "id_match": "exact",
+  "imdb_id": "tt35934755",
+  "tmdb_id": 285322,
+  "year": 2026
+ },
+ "tv|best medicine": {
+  "id_match": "exact",
+  "imdb_id": "tt36885662",
+  "tmdb_id": 291084,
+  "year": 2026
+ },
+ "tv|big bang theory": {
+  "id_match": "exact",
+  "imdb_id": "tt0898266",
+  "tmdb_id": 1418,
+  "year": 2007
+ },
+ "tv|black doves": {
+  "id_match": "exact",
+  "imdb_id": "tt27995113",
+  "tmdb_id": 225385,
+  "year": 2024
+ },
+ "tv|carrie": {
+  "id_match": "exact",
+  "imdb_id": "tt11540908",
+  "tmdb_id": 288673,
+  "year": 2026
+ },
+ "tv|dancing with the stars": {
+  "id_match": "exact",
+  "imdb_id": "tt0463398",
+  "tmdb_id": 1508,
+  "year": 2005
+ },
+ "tv|diplomat": {
+  "id_match": "exact",
+  "imdb_id": "tt17491088",
+  "tmdb_id": 203857,
+  "year": 2023
+ },
+ "tv|east of eden": {
+  "id_match": "exact",
+  "imdb_id": "tt21097264",
+  "tmdb_id": 258165,
+  "year": 2026
+ },
+ "tv|friends": {
+  "id_match": "exact",
+  "imdb_id": "tt0108778",
+  "tmdb_id": 1668,
+  "year": 1994
+ },
+ "tv|game of thrones": {
+  "id_match": "exact",
+  "imdb_id": "tt0944947",
+  "tmdb_id": 1399,
+  "year": 2011
+ },
+ "tv|general hospital": {
+  "id_match": "exact",
+  "imdb_id": "tt0056758",
+  "tmdb_id": 987,
+  "year": 1963
+ },
+ "tv|gilded age": {
+  "id_match": "exact",
+  "imdb_id": "tt4406178",
+  "tmdb_id": 81723,
+  "year": 2022
+ },
+ "tv|greatest": {
+  "id_match": "exact",
+  "imdb_id": "tt15715850",
+  "tmdb_id": 258989,
+  "year": 2026
+ },
+ "tv|greys anatomy": {
+  "id_match": "exact",
+  "imdb_id": "tt0413573",
+  "tmdb_id": 1416,
+  "year": 2005
+ },
+ "tv|hells kitchen": {
+  "id_match": "exact",
+  "imdb_id": "tt0437005",
+  "tmdb_id": 2370,
+  "year": 2005
+ },
+ "tv|kardashians": {
+  "id_match": "exact",
+  "imdb_id": "tt15791630",
+  "tmdb_id": 154521,
+  "year": 2022
+ },
+ "tv|last week tonight with john oliver": {
+  "id_match": "exact",
+  "imdb_id": "tt3530232",
+  "tmdb_id": 60694,
+  "year": 2014
+ },
+ "tv|lord of the rings the rings of power": {
+  "id_match": "exact",
+  "imdb_id": "tt7631058",
+  "tmdb_id": 84773,
+  "year": 2022
+ },
+ "tv|love is blind": {
+  "id_match": "exact",
+  "imdb_id": "tt11704040",
+  "tmdb_id": 99353,
+  "year": 2020
+ },
+ "tv|nathan for you": {
+  "id_match": "exact",
+  "imdb_id": "tt2297757",
+  "tmdb_id": 58957,
+  "year": 2013
+ },
+ "tv|neagley": {
+  "id_match": "exact",
+  "imdb_id": "tt33539520",
+  "tmdb_id": 273207,
+  "year": 2026
+ },
+ "tv|nobody wants this": {
+  "id_match": "exact",
+  "imdb_id": "tt26933824",
+  "tmdb_id": 250923,
+  "year": 2024
+ },
+ "tv|off campus": {
+  "id_match": "exact",
+  "imdb_id": "tt33546863",
+  "tmdb_id": 273240,
+  "year": 2026
+ },
+ "tv|one about matthew perry": {
+  "id_match": "exact",
+  "imdb_id": "tt44941753",
+  "tmdb_id": 333533,
+  "year": 2026
+ },
+ "tv|raw": {
+  "id_match": "exact",
+  "imdb_id": "tt0185103",
+  "tmdb_id": 4656,
+  "year": 1993
+ },
+ "tv|reacher": {
+  "id_match": "exact",
+  "imdb_id": "tt9288030",
+  "tmdb_id": 108978,
+  "year": 2022
+ },
+ "tv|reasonable doubt": {
+  "id_match": "exact",
+  "imdb_id": "tt11231226",
+  "tmdb_id": 205272,
+  "year": 2022
+ },
+ "tv|remarried empress": {
+  "id_match": "exact",
+  "imdb_id": "tt39325975",
+  "tmdb_id": 279246,
+  "year": 2026
+ },
+ "tv|rick and morty": {
+  "id_match": "exact",
+  "imdb_id": "tt2861424",
+  "tmdb_id": 60625,
+  "year": 2013
+ },
+ "tv|secret lives of mormon wives orange county": {
+  "id_match": "exact",
+  "imdb_id": "tt42006761",
+  "tmdb_id": 320507,
+  "year": 2026
+ },
+ "tv|sopranos": {
+  "id_match": "exact",
+  "imdb_id": "tt0141842",
+  "tmdb_id": 1398,
+  "year": 1999
+ },
+ "tv|special forces worlds toughest test": {
+  "id_match": "exact",
+  "imdb_id": "tt22003362",
+  "tmdb_id": 216562,
+  "year": 2023
+ },
+ "tv|taken natalee holloway": {
+  "id_match": "exact",
+  "imdb_id": "tt43681696",
+  "tmdb_id": 338684,
+  "year": 2026
+ },
+ "tv|terminal list": {
+  "id_match": "exact",
+  "imdb_id": "tt11743610",
+  "tmdb_id": 120911,
+  "year": 2022
+ },
+ "tv|visionquest": {
+  "id_match": "exact",
+  "imdb_id": "tt23112594",
+  "tmdb_id": 213375,
+  "year": 2026
+ },
+ "tv|war": {
+  "id_match": "exact",
+  "imdb_id": "tt37972251",
+  "tmdb_id": 298852,
+  "year": 2026
+ },
+ "tv|will trent": {
+  "id_match": "exact",
+  "imdb_id": "tt17543592",
+  "tmdb_id": 208569,
+  "year": 2023
+ }
+}
