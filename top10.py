@@ -224,6 +224,12 @@ def main():
     prev_file = OUT / "latest.json"
     prev = json.loads(prev_file.read_text()) if prev_file.exists() else {"rows": []}
 
+    key, tok = os.environ.get("ANTHROPIC_API_KEY", ""), os.environ.get("TMDB_READ_TOKEN", "")
+    if not key.startswith("sk-ant-"):
+        print(f"warning: ANTHROPIC_API_KEY looks wrong (starts {key[:3]!r}, {len(key)} chars); expected 'sk-ant-...'")
+    if tok and not tok.startswith("eyJ"):
+        print(f"warning: TMDB_READ_TOKEN looks wrong (starts {tok[:3]!r}, {len(tok)} chars); expected 'eyJ...'")
+
     texts, status = fetch_pages()
     if "--fetch-only" in sys.argv:
         (STATE / "pages").mkdir(exist_ok=True)
