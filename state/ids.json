@@ -35,6 +35,12 @@
   "tmdb_id": 1118031,
   "year": 2024
  },
+ "movie|christmas with the kranks": {
+  "id_match": "exact",
+  "imdb_id": "tt0388419",
+  "tmdb_id": 13673,
+  "year": 2004
+ },
  "movie|coco": {
   "id_match": "exact",
   "imdb_id": "tt2380307",
@@ -47,11 +53,23 @@
   "tmdb_id": 435,
   "year": 2004
  },
+ "movie|death of robin hood": {
+  "id_match": "exact",
+  "imdb_id": "tt32273171",
+  "tmdb_id": 1284465,
+  "year": 2026
+ },
  "movie|drive the pretenders": {
   "id_match": "exact",
   "imdb_id": "tt37180686",
   "tmdb_id": 1596275,
   "year": 2026
+ },
+ "movie|elf": {
+  "id_match": "exact",
+  "imdb_id": "tt0319343",
+  "tmdb_id": 10719,
+  "year": 2003
  },
  "movie|final destination bloodlines": {
   "id_match": "exact",
@@ -64,6 +82,12 @@
   "imdb_id": "tt0266543",
   "tmdb_id": 12,
   "year": 2003
+ },
+ "movie|first purge": {
+  "id_match": "exact",
+  "imdb_id": "tt6133466",
+  "tmdb_id": 442249,
+  "year": 2018
  },
  "movie|frozen": {
   "id_match": "exact",
@@ -88,6 +112,12 @@
   "imdb_id": "tt0104431",
   "tmdb_id": 772,
   "year": 1992
+ },
+ "movie|housemaid": {
+  "id_match": "exact",
+  "imdb_id": "tt27543632",
+  "tmdb_id": 1368166,
+  "year": 2025
  },
  "movie|hunger games": {
   "id_match": "exact",
@@ -185,6 +215,24 @@
   "tmdb_id": 585,
   "year": 2001
  },
+ "movie|national lampoons christmas vacation": {
+  "id_match": "exact",
+  "imdb_id": "tt0097958",
+  "tmdb_id": 5825,
+  "year": 1989
+ },
+ "movie|polar express": {
+  "id_match": "exact",
+  "imdb_id": "tt0338348",
+  "tmdb_id": 5255,
+  "year": 2004
+ },
+ "movie|red sparrow": {
+  "id_match": "exact",
+  "imdb_id": "tt2873282",
+  "tmdb_id": 401981,
+  "year": 2018
+ },
  "movie|santa clause": {
   "id_match": "exact",
   "imdb_id": "tt0111070",
@@ -239,6 +287,30 @@
   "tmdb_id": 356305,
   "year": 2016
  },
+ "movie|wolverine": {
+  "id_match": "exact",
+  "imdb_id": "tt1430132",
+  "tmdb_id": 76170,
+  "year": 2013
+ },
+ "tv|1000lb sisters": {
+  "id_match": "exact",
+  "imdb_id": "tt11617414",
+  "tmdb_id": 98410,
+  "year": 2020
+ },
+ "tv|90 day fiancé the other way": {
+  "id_match": "exact",
+  "imdb_id": "tt9170070",
+  "tmdb_id": 90046,
+  "year": 2019
+ },
+ "tv|90 day hunt for love": {
+  "id_match": "exact",
+  "imdb_id": "tt36694933",
+  "tmdb_id": 290564,
+  "year": 2025
+ },
  "tv|911": {
   "id_match": "exact",
   "imdb_id": "tt7235466",
@@ -286,6 +358,12 @@
   "imdb_id": "tt27995113",
   "tmdb_id": 225385,
   "year": 2024
+ },
+ "tv|bobbys triple threat": {
+  "id_match": "exact",
+  "imdb_id": "tt21832348",
+  "tmdb_id": 211201,
+  "year": 2022
  },
  "tv|campus drivers": {
   "id_match": "exact",
@@ -353,11 +431,23 @@
   "tmdb_id": 1416,
   "year": 2005
  },
+ "tv|harry potter wizards of baking": {
+  "id_match": "exact",
+  "imdb_id": "tt32374361",
+  "tmdb_id": 254514,
+  "year": 2024
+ },
  "tv|hells kitchen": {
   "id_match": "exact",
   "imdb_id": "tt0437005",
   "tmdb_id": 2370,
   "year": 2005
+ },
+ "tv|holiday baking championship": {
+  "id_match": "exact",
+  "imdb_id": "tt4226226",
+  "tmdb_id": 68598,
+  "year": 2014
  },
  "tv|kardashians": {
   "id_match": "exact",
@@ -478,6 +568,12 @@
   "imdb_id": "tt11743610",
   "tmdb_id": 120911,
   "year": 2022
+ },
+ "tv|tournament of champions allstar christmas": {
+  "id_match": "exact",
+  "imdb_id": "tt38866811",
+  "tmdb_id": 305016,
+  "year": 2025
  },
  "tv|visionquest": {
   "id_match": "exact",
