@@ -37,10 +37,9 @@ SOURCES = [
     dict(key="disney_plus", service="disney_plus", chart="daily", region="US", official=False, want="both",
          url="https://streamscope.app/disney-plus",
          hint="Today's Disney+ Top 10 movies and Top 10 series."),
-    dict(key="hbo_max", service="hbo_max", chart="weekly", region="US", official=False, want="combined",
-         url="https://www.showlabs.tv/en/hbo-top-10",
-         hint="One combined weekly Top 10 list. Put each title under movies or series using its Movie/Series "
-              "label, and use its position in the combined list as its rank."),
+    dict(key="hbo_max", service="hbo_max", chart="daily", region="US", official=False, want="both",
+         url="https://streamscope.app/max",
+         hint="Today's HBO Max Top 10 movies and Top 10 series."),
 ]
 
 SYSTEM = (
@@ -113,8 +112,6 @@ def problems(s, data):
         found.append("no movies")
     if want in ("series", "both") and not data["series"]:
         found.append("no series")
-    if want == "combined" and not (data["movies"] or data["series"]):
-        found.append("empty list")
     end = parse_date(data.get("period_end"))
     if end:
         age = (NOW.date() - end).days
@@ -249,8 +246,6 @@ def main():
     services = {}
     for s in SOURCES:
         svc = services.setdefault(s["service"], {"official": s["official"], "region": s["region"], "chart": s["chart"]})
-        if s["want"] == "combined":
-            svc["combined_ranks"] = True
         new = None
         if s["key"] in texts:
             try:
