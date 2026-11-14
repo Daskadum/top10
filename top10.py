@@ -132,6 +132,7 @@ def parse_date(v):
 
 def clean_title(raw):
     t = raw.split(" / ")[0].strip()
+    t = re.sub(r"\s*\((?:International )?Original\b[^)]*\)\s*$", "", t)
     m = re.match(r"^(.*?):\s*Season\s+(\d+)$", t, re.I) or re.match(r"^(.*?):\s*S(\d+)(?::.*)?$", t)
     if m:
         return m.group(1).strip(), int(m.group(2))
@@ -178,6 +179,11 @@ def lookup_ids(title, kind, cache):
         if exact:
             p = [r.get("popularity") or 0 for r in exact]
             match = "exact" if len(p) == 1 or p[0] >= 3 * p[1] else "ambiguous"
+            if match == "ambiguous":
+                recent = [r for r in exact if (r.get("release_date") or r.get("first_air_date") or "")[:4]
+                          >= str(NOW.year - 1)]
+                if recent:
+                    best = recent[0]
         imdb = tmdb_get(f"/{kind}/{best['id']}/external_ids").get("imdb_id") or None
         date = best.get("release_date") or best.get("first_air_date") or ""
         entry = {"tmdb_id": best["id"], "imdb_id": imdb,
@@ -192,6 +198,8 @@ def lookup_ids(title, kind, cache):
 
 def build_rows(s, data, fetched_at, cache):
     rows = []
+    if s["chart"] == "daily" and not data["period_end"]:
+        data["period_start"] = data["period_end"] = f"{NOW:%Y-%m-%d}"
     lists = {"movies": data["movies"], "series": data["series"]}
     if s["want"] == "movies":
         lists["series"] = []
