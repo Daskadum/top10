@@ -1,4 +1,3 @@
-import csv
 import datetime as dt
 import json
 import os
@@ -265,10 +264,6 @@ def main():
     payload = json.dumps(doc, indent=1, ensure_ascii=False)
     prev_file.write_text(payload)
     (OUT / "data" / f"{NOW:%Y-%m-%d}.json").write_text(payload)
-    with open(OUT / "latest.csv", "w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=list(rows[0].keys()) if rows else ["source"])
-        w.writeheader()
-        w.writerows(rows)
     cache_file.write_text(json.dumps(cache, indent=1, sort_keys=True, ensure_ascii=False))
     bad = {k: v for k, v in status.items() if v != "ok"}
     print("status:", json.dumps(status, indent=1))
