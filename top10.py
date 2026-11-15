@@ -40,6 +40,15 @@ SOURCES = [
     dict(key="hbo_max", service="hbo_max", chart="daily", region="US", official=False, want="both",
          url="https://streamscope.app/max",
          hint="Today's HBO Max Top 10 movies and Top 10 series."),
+    dict(key="paramount_plus", service="paramount_plus", chart="daily", region="US", official=False, want="both",
+         url="https://streamscope.app/paramount-plus",
+         hint="Today's Paramount+ Top 10 movies and Top 10 series."),
+    dict(key="peacock", service="peacock", chart="daily", region="US", official=False, want="both",
+         url="https://streamscope.app/peacock",
+         hint="Today's Peacock Top 10 movies and Top 10 series."),
+    dict(key="apple_tv", service="apple_tv", chart="daily", region="US", official=False, want="both",
+         url="https://streamscope.app/apple-tv-plus",
+         hint="Today's Apple TV Top 10 movies and Top 10 series."),
 ]
 
 SYSTEM = (
