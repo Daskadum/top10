@@ -65,6 +65,12 @@
   "tmdb_id": 12113,
   "year": 2008
  },
+ "movie|cat in the hat": {
+  "id_match": "exact",
+  "imdb_id": "tt2321555",
+  "tmdb_id": 1117898,
+  "year": 2026
+ },
  "movie|christmas with the kranks": {
   "id_match": "exact",
   "imdb_id": "tt0388419",
@@ -113,6 +119,12 @@
   "tmdb_id": 10719,
   "year": 2003
  },
+ "movie|end of oak street": {
+  "id_match": "exact",
+  "imdb_id": "tt27165187",
+  "tmdb_id": 1101383,
+  "year": 2026
+ },
  "movie|final destination bloodlines": {
   "id_match": "exact",
   "imdb_id": "tt9619824",
@@ -142,6 +154,12 @@
   "imdb_id": "tt2294629",
   "tmdb_id": 109445,
   "year": 2013
+ },
+ "movie|get out": {
+  "id_match": "exact",
+  "imdb_id": "tt32321803",
+  "tmdb_id": 1279493,
+  "year": 2026
  },
  "movie|grinch": {
   "id_match": "exact",
@@ -533,6 +551,12 @@
   "tmdb_id": 211201,
   "year": 2022
  },
+ "tv|boston blue": {
+  "id_match": "exact",
+  "imdb_id": "tt35826715",
+  "tmdb_id": 284736,
+  "year": 2025
+ },
  "tv|brothers": {
   "id_match": "exact",
   "imdb_id": "tt6155146",
@@ -611,6 +635,12 @@
   "tmdb_id": 2140,
   "year": 1996
  },
+ "tv|fire country": {
+  "id_match": "exact",
+  "imdb_id": "tt16098700",
+  "tmdb_id": 202297,
+  "year": 2022
+ },
  "tv|friends": {
   "id_match": "exact",
   "imdb_id": "tt0108778",
@@ -658,6 +688,12 @@
   "imdb_id": "tt0413573",
   "tmdb_id": 1416,
   "year": 2005
+ },
+ "tv|happys place": {
+  "id_match": "exact",
+  "imdb_id": "tt31106862",
+  "tmdb_id": 253896,
+  "year": 2024
  },
  "tv|harry potter wizards of baking": {
   "id_match": "exact",
@@ -791,6 +827,12 @@
   "tmdb_id": 10222,
   "year": 2006
  },
+ "tv|real time with bill maher": {
+  "id_match": "exact",
+  "imdb_id": "tt0350448",
+  "tmdb_id": 4419,
+  "year": 2003
+ },
  "tv|reasonable doubt": {
   "id_match": "exact",
   "imdb_id": "tt11231226",
@@ -814,6 +856,12 @@
   "imdb_id": "tt42006761",
   "tmdb_id": 320507,
   "year": 2026
+ },
+ "tv|sheriff country": {
+  "id_match": "exact",
+  "imdb_id": "tt32268630",
+  "tmdb_id": 253391,
+  "year": 2025
  },
  "tv|silo": {
   "id_match": "exact",
