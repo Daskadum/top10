@@ -11,6 +11,12 @@
   "tmdb_id": 431530,
   "year": 2017
  },
+ "movie|a charlie brown thanksgiving": {
+  "id_match": "exact",
+  "imdb_id": "tt0068359",
+  "tmdb_id": 13479,
+  "year": 1973
+ },
  "movie|a dogs perfect christmas": {
   "id_match": "exact",
   "imdb_id": "tt38515310",
@@ -34,6 +40,30 @@
   "imdb_id": "tt27599851",
   "tmdb_id": 1118031,
   "year": 2024
+ },
+ "movie|bad santa": {
+  "id_match": "exact",
+  "imdb_id": "tt0307987",
+  "tmdb_id": 10147,
+  "year": 2003
+ },
+ "movie|ballistic": {
+  "id_match": "exact",
+  "imdb_id": "tt13165898",
+  "tmdb_id": 1243741,
+  "year": 2026
+ },
+ "movie|being heumann": {
+  "id_match": "exact",
+  "imdb_id": "tt15095848",
+  "tmdb_id": 1050981,
+  "year": 2026
+ },
+ "movie|body of lies": {
+  "id_match": "exact",
+  "imdb_id": "tt0758774",
+  "tmdb_id": 12113,
+  "year": 2008
  },
  "movie|christmas with the kranks": {
   "id_match": "exact",
@@ -59,6 +89,18 @@
   "tmdb_id": 1284465,
   "year": 2026
  },
+ "movie|despicable me": {
+  "id_match": "exact",
+  "imdb_id": "tt1323594",
+  "tmdb_id": 20352,
+  "year": 2010
+ },
+ "movie|dracula": {
+  "id_match": "exact",
+  "imdb_id": "tt31434030",
+  "tmdb_id": 1246049,
+  "year": 2025
+ },
  "movie|drive the pretenders": {
   "id_match": "exact",
   "imdb_id": "tt37180686",
@@ -83,6 +125,12 @@
   "tmdb_id": 12,
   "year": 2003
  },
+ "movie|first blood": {
+  "id_match": "exact",
+  "imdb_id": "tt0083944",
+  "tmdb_id": 1368,
+  "year": 1982
+ },
  "movie|first purge": {
   "id_match": "exact",
   "imdb_id": "tt6133466",
@@ -94,6 +142,12 @@
   "imdb_id": "tt2294629",
   "tmdb_id": 109445,
   "year": 2013
+ },
+ "movie|grinch": {
+  "id_match": "exact",
+  "imdb_id": "tt2709692",
+  "tmdb_id": 360920,
+  "year": 2018
  },
  "movie|holiday": {
   "id_match": "exact",
@@ -118,6 +172,12 @@
   "imdb_id": "tt27543632",
   "tmdb_id": 1368166,
   "year": 2025
+ },
+ "movie|how the grinch stole christmas": {
+  "id_match": "exact",
+  "imdb_id": "tt0170016",
+  "tmdb_id": 8871,
+  "year": 2000
  },
  "movie|hunger games": {
   "id_match": "exact",
@@ -149,6 +209,12 @@
   "tmdb_id": 950028,
   "year": 2026
  },
+ "movie|its the great pumpkin charlie brown": {
+  "id_match": "exact",
+  "imdb_id": "tt0060550",
+  "tmdb_id": 13353,
+  "year": 1966
+ },
  "movie|jumanji welcome to the jungle": {
   "id_match": "exact",
   "imdb_id": "tt2283362",
@@ -167,6 +233,12 @@
   "tmdb_id": 803796,
   "year": 2025
  },
+ "movie|lorax": {
+  "id_match": "exact",
+  "imdb_id": "tt1482459",
+  "tmdb_id": 73723,
+  "year": 2012
+ },
  "movie|love hypothesis": {
   "id_match": "exact",
   "imdb_id": "tt22526100",
@@ -179,6 +251,12 @@
   "tmdb_id": 1381078,
   "year": 2026
  },
+ "movie|madagascar": {
+  "id_match": "exact",
+  "imdb_id": "tt0351283",
+  "tmdb_id": 953,
+  "year": 2005
+ },
  "movie|masterplan": {
   "id_match": "exact",
   "imdb_id": "tt38672588",
@@ -189,6 +267,18 @@
   "id_match": "exact",
   "imdb_id": "tt0427340",
   "tmdb_id": 454639,
+  "year": 2026
+ },
+ "movie|mayday": {
+  "id_match": "exact",
+  "imdb_id": "tt28014327",
+  "tmdb_id": 1137844,
+  "year": 2026
+ },
+ "movie|minions and monsters": {
+  "id_match": "exact",
+  "imdb_id": "tt32890033",
+  "tmdb_id": 1315772,
   "year": 2026
  },
  "movie|mirzapur the movie": {
@@ -221,11 +311,41 @@
   "tmdb_id": 5825,
   "year": 1989
  },
+ "movie|nice guys": {
+  "id_match": "exact",
+  "imdb_id": "tt3799694",
+  "tmdb_id": 290250,
+  "year": 2016
+ },
+ "movie|one mile chapter one": {
+  "id_match": "exact",
+  "imdb_id": "tt24326458",
+  "tmdb_id": 1327688,
+  "year": 2026
+ },
+ "movie|one mile chapter two": {
+  "id_match": "exact",
+  "imdb_id": "tt24326462",
+  "tmdb_id": 1327690,
+  "year": 2026
+ },
+ "movie|paw patrol the dino movie": {
+  "id_match": "exact",
+  "imdb_id": "tt29356163",
+  "tmdb_id": 1185806,
+  "year": 2026
+ },
  "movie|polar express": {
   "id_match": "exact",
   "imdb_id": "tt0338348",
   "tmdb_id": 5255,
   "year": 2004
+ },
+ "movie|prisoners": {
+  "id_match": "exact",
+  "imdb_id": "tt1392214",
+  "tmdb_id": 146233,
+  "year": 2013
  },
  "movie|red sparrow": {
   "id_match": "exact",
@@ -245,6 +365,18 @@
   "tmdb_id": 9021,
   "year": 2002
  },
+ "movie|secret life of pets": {
+  "id_match": "exact",
+  "imdb_id": "tt2709768",
+  "tmdb_id": 328111,
+  "year": 2016
+ },
+ "movie|secret life of pets 2": {
+  "id_match": "exact",
+  "imdb_id": "tt5113040",
+  "tmdb_id": 412117,
+  "year": 2019
+ },
  "movie|sing": {
   "id_match": "exact",
   "imdb_id": "tt3470600",
@@ -263,10 +395,22 @@
   "tmdb_id": 1410082,
   "year": 2025
  },
+ "movie|snoopy presents 12 days of snoopy": {
+  "id_match": "exact",
+  "imdb_id": "tt47791876",
+  "tmdb_id": 1780407,
+  "year": 2026
+ },
  "movie|super troopers 3": {
   "id_match": "exact",
   "imdb_id": "tt8820258",
   "tmdb_id": 675871,
+  "year": 2026
+ },
+ "movie|tenzing": {
+  "id_match": "exact",
+  "imdb_id": "tt6262770",
+  "tmdb_id": 1288069,
   "year": 2026
  },
  "movie|thanksgiving": {
@@ -279,6 +423,18 @@
   "id_match": "exact",
   "imdb_id": "tt29355505",
   "tmdb_id": 1084244,
+  "year": 2026
+ },
+ "movie|twister": {
+  "id_match": "exact",
+  "imdb_id": "tt0117998",
+  "tmdb_id": 664,
+  "year": 1996
+ },
+ "movie|uprising": {
+  "id_match": "exact",
+  "imdb_id": "tt36983905",
+  "tmdb_id": 977942,
   "year": 2026
  },
  "movie|why him": {
@@ -298,6 +454,12 @@
   "imdb_id": "tt11617414",
   "tmdb_id": 98410,
   "year": 2020
+ },
+ "tv|12 12 12": {
+  "id_match": "exact",
+  "imdb_id": "tt32375763",
+  "tmdb_id": 254630,
+  "year": 2026
  },
  "tv|90 day fiancé the other way": {
   "id_match": "exact",
@@ -335,6 +497,12 @@
   "tmdb_id": 258742,
   "year": 2025
  },
+ "tv|awkwafina the unlikely cook": {
+  "id_match": "exact",
+  "imdb_id": "tt38992068",
+  "tmdb_id": 306179,
+  "year": 2026
+ },
  "tv|below": {
   "id_match": "exact",
   "imdb_id": "tt35934755",
@@ -365,6 +533,12 @@
   "tmdb_id": 211201,
   "year": 2022
  },
+ "tv|brothers": {
+  "id_match": "exact",
+  "imdb_id": "tt6155146",
+  "tmdb_id": 66515,
+  "year": 2015
+ },
  "tv|campus drivers": {
   "id_match": "exact",
   "imdb_id": "tt39943756",
@@ -377,11 +551,47 @@
   "tmdb_id": 288673,
   "year": 2026
  },
+ "tv|chicago fire": {
+  "id_match": "exact",
+  "imdb_id": "tt2261391",
+  "tmdb_id": 44006,
+  "year": 2012
+ },
+ "tv|chicago med": {
+  "id_match": "exact",
+  "imdb_id": "tt4655480",
+  "tmdb_id": 62650,
+  "year": 2015
+ },
+ "tv|chicago pd": {
+  "id_match": "exact",
+  "imdb_id": "tt2805096",
+  "tmdb_id": 58841,
+  "year": 2014
+ },
+ "tv|criminal minds": {
+  "id_match": "exact",
+  "imdb_id": "tt0452046",
+  "tmdb_id": 4057,
+  "year": 2005
+ },
+ "tv|cupertino": {
+  "id_match": "exact",
+  "imdb_id": "tt33270224",
+  "tmdb_id": 303630,
+  "year": 2026
+ },
  "tv|dancing with the stars": {
   "id_match": "exact",
   "imdb_id": "tt0463398",
   "tmdb_id": 1508,
   "year": 2005
+ },
+ "tv|dexter resurrection": {
+  "id_match": "exact",
+  "imdb_id": "tt33043892",
+  "tmdb_id": 259909,
+  "year": 2025
  },
  "tv|diplomat": {
   "id_match": "exact",
@@ -394,6 +604,12 @@
   "imdb_id": "tt21097264",
   "tmdb_id": 258165,
   "year": 2026
+ },
+ "tv|everybody loves raymond": {
+  "id_match": "exact",
+  "imdb_id": "tt0115167",
+  "tmdb_id": 2140,
+  "year": 1996
  },
  "tv|friends": {
   "id_match": "exact",
@@ -413,11 +629,23 @@
   "tmdb_id": 987,
   "year": 1963
  },
+ "tv|ghosts": {
+  "id_match": "exact",
+  "imdb_id": "tt11379026",
+  "tmdb_id": 126027,
+  "year": 2021
+ },
  "tv|gilded age": {
   "id_match": "exact",
   "imdb_id": "tt4406178",
   "tmdb_id": 81723,
   "year": 2022
+ },
+ "tv|good daughter": {
+  "id_match": "exact",
+  "imdb_id": "tt31842126",
+  "tmdb_id": 249565,
+  "year": 2026
  },
  "tv|greatest": {
   "id_match": "exact",
@@ -461,6 +689,24 @@
   "tmdb_id": 60694,
   "year": 2014
  },
+ "tv|law and order": {
+  "id_match": "exact",
+  "imdb_id": "tt0098844",
+  "tmdb_id": 549,
+  "year": 1990
+ },
+ "tv|law and order special victims unit": {
+  "id_match": "exact",
+  "imdb_id": "tt0203259",
+  "tmdb_id": 2734,
+  "year": 1999
+ },
+ "tv|lioness": {
+  "id_match": "exact",
+  "imdb_id": "tt13111078",
+  "tmdb_id": 113962,
+  "year": 2023
+ },
  "tv|lord of the rings the rings of power": {
   "id_match": "exact",
   "imdb_id": "tt7631058",
@@ -479,11 +725,23 @@
   "tmdb_id": 99353,
   "year": 2020
  },
+ "tv|mobland": {
+  "id_match": "exact",
+  "imdb_id": "tt31510819",
+  "tmdb_id": 247718,
+  "year": 2025
+ },
  "tv|nathan for you": {
   "id_match": "exact",
   "imdb_id": "tt2297757",
   "tmdb_id": 58957,
   "year": 2013
+ },
+ "tv|ncis": {
+  "id_match": "exact",
+  "imdb_id": "tt0364845",
+  "tmdb_id": 4614,
+  "year": 2003
  },
  "tv|neagley": {
   "id_match": "exact",
@@ -496,6 +754,12 @@
   "imdb_id": "tt26933824",
   "tmdb_id": 250923,
   "year": 2024
+ },
+ "tv|nocturne": {
+  "id_match": "exact",
+  "imdb_id": "tt26598805",
+  "tmdb_id": 292741,
+  "year": 2026
  },
  "tv|off campus": {
   "id_match": "exact",
@@ -521,6 +785,12 @@
   "tmdb_id": 108978,
   "year": 2022
  },
+ "tv|real housewives of orange county": {
+  "id_match": "exact",
+  "imdb_id": "tt0497079",
+  "tmdb_id": 10222,
+  "year": 2006
+ },
  "tv|reasonable doubt": {
   "id_match": "exact",
   "imdb_id": "tt11231226",
@@ -545,11 +815,35 @@
   "tmdb_id": 320507,
   "year": 2026
  },
+ "tv|silo": {
+  "id_match": "exact",
+  "imdb_id": "tt14688458",
+  "tmdb_id": 125988,
+  "year": 2023
+ },
+ "tv|slow horses": {
+  "id_match": "exact",
+  "imdb_id": "tt5875444",
+  "tmdb_id": 95480,
+  "year": 2022
+ },
  "tv|sopranos": {
   "id_match": "exact",
   "imdb_id": "tt0141842",
   "tmdb_id": 1398,
   "year": 1999
+ },
+ "tv|south park": {
+  "id_match": "exact",
+  "imdb_id": "tt0121955",
+  "tmdb_id": 2190,
+  "year": 1997
+ },
+ "tv|southern charm": {
+  "id_match": "exact",
+  "imdb_id": "tt2815522",
+  "tmdb_id": 62185,
+  "year": 2014
  },
  "tv|special forces worlds toughest test": {
   "id_match": "exact",
@@ -557,11 +851,29 @@
   "tmdb_id": 216562,
   "year": 2023
  },
+ "tv|st denis medical": {
+  "id_match": "exact",
+  "imdb_id": "tt21433690",
+  "tmdb_id": 251941,
+  "year": 2024
+ },
+ "tv|stick": {
+  "id_match": "exact",
+  "imdb_id": "tt31710249",
+  "tmdb_id": 248830,
+  "year": 2025
+ },
  "tv|taken natalee holloway": {
   "id_match": "exact",
   "imdb_id": "tt43681696",
   "tmdb_id": 338684,
   "year": 2026
+ },
+ "tv|ted lasso": {
+  "id_match": "exact",
+  "imdb_id": "tt10986410",
+  "tmdb_id": 97546,
+  "year": 2020
  },
  "tv|terminal list": {
   "id_match": "exact",
@@ -575,6 +887,12 @@
   "tmdb_id": 305016,
   "year": 2025
  },
+ "tv|tulsa king": {
+  "id_match": "exact",
+  "imdb_id": "tt16358384",
+  "tmdb_id": 153312,
+  "year": 2022
+ },
  "tv|visionquest": {
   "id_match": "exact",
   "imdb_id": "tt23112594",
@@ -585,6 +903,12 @@
   "id_match": "exact",
   "imdb_id": "tt37972251",
   "tmdb_id": 298852,
+  "year": 2026
+ },
+ "tv|widows bay": {
+  "id_match": "exact",
+  "imdb_id": "tt33332385",
+  "tmdb_id": 270476,
   "year": 2026
  },
  "tv|will trent": {
