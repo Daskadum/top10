@@ -1,7 +1,9 @@
 name: daily
 on:
   schedule:
-    - cron: "0 11 * * *"
+    - cron: "17 10 * * *"
+    - cron: "47 13 * * *"
+    - cron: "29 17 * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -12,17 +14,25 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v7
-      - run: |
+      - id: check
+        if: github.event_name == 'schedule'
+        run: |
+          f="docs/data/$(TZ=America/New_York date +%F).json"
+          if [ -f "$f" ] && ! grep -q '"stale": true' "$f"; then echo "done=1" >> "$GITHUB_OUTPUT"; fi
+      - if: steps.check.outputs.done != '1'
+        run: |
           python3 -m venv .venv
           .venv/bin/pip install -q -r requirements.txt
           .venv/bin/python -m playwright install --with-deps chromium
       - id: run
+        if: steps.check.outputs.done != '1'
         continue-on-error: true
         run: .venv/bin/python top10.py
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TMDB_READ_TOKEN: ${{ secrets.TMDB_READ_TOKEN }}
-      - run: |
+      - if: steps.check.outputs.done != '1'
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs state
