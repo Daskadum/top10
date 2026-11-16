@@ -5,6 +5,12 @@
   "tmdb_id": 1600653,
   "year": 2026
  },
+ "movie|13 hours the secret soldiers of benghazi": {
+  "id_match": "exact",
+  "imdb_id": "tt4172430",
+  "tmdb_id": 300671,
+  "year": 2016
+ },
  "movie|a bad moms christmas": {
   "id_match": "exact",
   "imdb_id": "tt6359956",
@@ -40,6 +46,12 @@
   "imdb_id": "tt27599851",
   "tmdb_id": 1118031,
   "year": 2024
+ },
+ "movie|avengers endgame": {
+  "id_match": "exact",
+  "imdb_id": "tt4154796",
+  "tmdb_id": 299534,
+  "year": 2019
  },
  "movie|bad santa": {
   "id_match": "exact",
@@ -82,6 +94,12 @@
   "imdb_id": "tt2380307",
   "tmdb_id": 354912,
   "year": 2017
+ },
+ "movie|coraline": {
+  "id_match": "exact",
+  "imdb_id": "tt0327597",
+  "tmdb_id": 14836,
+  "year": 2009
  },
  "movie|day after tomorrow": {
   "id_match": "exact",
@@ -154,6 +172,12 @@
   "imdb_id": "tt2294629",
   "tmdb_id": 109445,
   "year": 2013
+ },
+ "movie|frozen ii": {
+  "id_match": "exact",
+  "imdb_id": "tt4520988",
+  "tmdb_id": 330457,
+  "year": 2019
  },
  "movie|get out": {
   "id_match": "exact",
@@ -455,6 +479,12 @@
   "tmdb_id": 977942,
   "year": 2026
  },
+ "movie|were the millers": {
+  "id_match": "exact",
+  "imdb_id": "tt1723121",
+  "tmdb_id": 138832,
+  "year": 2013
+ },
  "movie|why him": {
   "id_match": "exact",
   "imdb_id": "tt4501244",
@@ -671,6 +701,12 @@
   "tmdb_id": 81723,
   "year": 2022
  },
+ "tv|gold rush": {
+  "id_match": "exact",
+  "imdb_id": "tt1800864",
+  "tmdb_id": 34634,
+  "year": 2010
+ },
  "tv|good daughter": {
   "id_match": "exact",
   "imdb_id": "tt31842126",
@@ -851,6 +887,12 @@
   "tmdb_id": 60625,
   "year": 2013
  },
+ "tv|saturday night live": {
+  "id_match": "exact",
+  "imdb_id": "tt0072562",
+  "tmdb_id": 1667,
+  "year": 1975
+ },
  "tv|secret lives of mormon wives orange county": {
   "id_match": "exact",
   "imdb_id": "tt42006761",
@@ -862,6 +904,12 @@
   "imdb_id": "tt32268630",
   "tmdb_id": 253391,
   "year": 2025
+ },
+ "tv|shrinking": {
+  "id_match": "exact",
+  "imdb_id": "tt15677150",
+  "tmdb_id": 136311,
+  "year": 2023
  },
  "tv|silo": {
   "id_match": "exact",
