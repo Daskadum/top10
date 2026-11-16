@@ -1,9 +1,9 @@
 name: daily
 on:
   schedule:
-    - cron: "17 10 * * *"
-    - cron: "47 13 * * *"
-    - cron: "29 17 * * *"
+    - cron: "17 9 * * *"
+    - cron: "47 12 * * *"
+    - cron: "17 21 * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
       - id: check
-        if: github.event_name == 'schedule'
+        if: github.event_name == 'schedule' && github.event.schedule != '17 21 * * *'
         run: |
           f="docs/data/$(TZ=America/New_York date +%F).json"
           if [ -f "$f" ] && ! grep -q '"stale": true' "$f"; then echo "done=1" >> "$GITHUB_OUTPUT"; fi
