@@ -239,6 +239,12 @@
   "tmdb_id": 131631,
   "year": 2014
  },
+ "movie|hunger games mockingjay part 2": {
+  "id_match": "exact",
+  "imdb_id": "tt1951266",
+  "tmdb_id": 131634,
+  "year": 2015
+ },
  "movie|hunger games the ballad of songbirds and snakes": {
   "id_match": "exact",
   "imdb_id": "tt10545296",
@@ -628,6 +634,12 @@
   "imdb_id": "tt0452046",
   "tmdb_id": 4057,
   "year": 2005
+ },
+ "tv|crown of deceit inside the miss universe scandal": {
+  "id_match": "exact",
+  "imdb_id": "tt49815439",
+  "tmdb_id": 340085,
+  "year": 2026
  },
  "tv|cupertino": {
   "id_match": "exact",
