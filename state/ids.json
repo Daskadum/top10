@@ -167,6 +167,12 @@
   "tmdb_id": 442249,
   "year": 2018
  },
+ "movie|four christmases": {
+  "id_match": "exact",
+  "imdb_id": "tt0369436",
+  "tmdb_id": 12193,
+  "year": 2008
+ },
  "movie|frozen": {
   "id_match": "exact",
   "imdb_id": "tt2294629",
@@ -208,6 +214,12 @@
   "imdb_id": "tt0104431",
   "tmdb_id": 772,
   "year": 1992
+ },
+ "movie|home alone 3": {
+  "id_match": "exact",
+  "imdb_id": "tt0119303",
+  "tmdb_id": 9714,
+  "year": 1997
  },
  "movie|housemaid": {
   "id_match": "exact",
@@ -304,6 +316,12 @@
   "imdb_id": "tt0351283",
   "tmdb_id": 953,
   "year": 2005
+ },
+ "movie|madame web": {
+  "id_match": "exact",
+  "imdb_id": "tt11057302",
+  "tmdb_id": 634492,
+  "year": 2024
  },
  "movie|masterplan": {
   "id_match": "exact",
@@ -701,6 +719,12 @@
   "tmdb_id": 987,
   "year": 1963
  },
+ "tv|get jiro": {
+  "id_match": "exact",
+  "imdb_id": "tt33406999",
+  "tmdb_id": 231801,
+  "year": 2026
+ },
  "tv|ghosts": {
   "id_match": "exact",
   "imdb_id": "tt11379026",
@@ -749,6 +773,12 @@
   "tmdb_id": 254514,
   "year": 2024
  },
+ "tv|have i got news for you": {
+  "id_match": "exact",
+  "imdb_id": "tt0098820",
+  "tmdb_id": 797,
+  "year": 1990
+ },
  "tv|hells kitchen": {
   "id_match": "exact",
   "imdb_id": "tt0437005",
@@ -791,6 +821,12 @@
   "tmdb_id": 113962,
   "year": 2023
  },
+ "tv|loki": {
+  "id_match": "exact",
+  "imdb_id": "tt9140554",
+  "tmdb_id": 84958,
+  "year": 2021
+ },
  "tv|lord of the rings the rings of power": {
   "id_match": "exact",
   "imdb_id": "tt7631058",
@@ -808,6 +844,12 @@
   "imdb_id": "tt11704040",
   "tmdb_id": 99353,
   "year": 2020
+ },
+ "tv|marshals": {
+  "id_match": "exact",
+  "imdb_id": "tt36849871",
+  "tmdb_id": 290856,
+  "year": 2026
  },
  "tv|mobland": {
   "id_match": "exact",
@@ -857,6 +899,12 @@
   "tmdb_id": 333533,
   "year": 2026
  },
+ "tv|phony": {
+  "id_match": "exact",
+  "imdb_id": "tt21952924",
+  "tmdb_id": 275139,
+  "year": 2026
+ },
  "tv|raw": {
   "id_match": "exact",
   "imdb_id": "tt0185103",
@@ -874,6 +922,12 @@
   "imdb_id": "tt0497079",
   "tmdb_id": 10222,
   "year": 2006
+ },
+ "tv|real housewives of potomac": {
+  "id_match": "exact",
+  "imdb_id": "tt5327970",
+  "tmdb_id": 65300,
+  "year": 2016
  },
  "tv|real time with bill maher": {
   "id_match": "exact",
@@ -994,6 +1048,12 @@
   "imdb_id": "tt38866811",
   "tmdb_id": 305016,
   "year": 2025
+ },
+ "tv|tracker": {
+  "id_match": "exact",
+  "imdb_id": "tt13875494",
+  "tmdb_id": 211288,
+  "year": 2024
  },
  "tv|tulsa king": {
   "id_match": "exact",
