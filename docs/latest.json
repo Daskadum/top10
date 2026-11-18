@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T13:38:46-05:00",
+ "generated_at": "2026-11-17T21:56:00-05:00",
  "services": {
   "netflix": {
    "official": true,
@@ -8,13 +8,22 @@
    "movies": {
     "source_url": "https://www.netflix.com/tudum/top10/",
     "period": [
-     "2026-11-02",
-     "2026-11-08"
+     "2026-11-09",
+     "2026-11-15"
     ],
     "stale": false,
     "items": [
      {
       "rank": 1,
+      "title": "Heartland",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt38213251",
+      "tmdb_id": 1543469,
+      "id_match": "exact"
+     },
+     {
+      "rank": 2,
       "title": "A Dog's Perfect Christmas",
       "season": null,
       "year": 2026,
@@ -23,34 +32,34 @@
       "id_match": "exact"
      },
      {
-      "rank": 2,
-      "title": "Heist",
-      "season": null,
-      "year": 2001,
-      "imdb_id": "tt0252503",
-      "tmdb_id": 11088,
-      "id_match": "ambiguous"
-     },
-     {
       "rank": 3,
-      "title": "Final Destination: Bloodlines",
+      "title": "The Gospel of Christmas",
       "season": null,
-      "year": 2025,
-      "imdb_id": "tt9619824",
-      "tmdb_id": 574475,
+      "year": 2026,
+      "imdb_id": "tt38420997",
+      "tmdb_id": 1559980,
       "id_match": "exact"
      },
      {
       "rank": 4,
-      "title": "The Day After Tomorrow",
+      "title": "Reminders of Him",
       "season": null,
-      "year": 2004,
-      "imdb_id": "tt0319262",
-      "tmdb_id": 435,
+      "year": 2026,
+      "imdb_id": "tt33714084",
+      "tmdb_id": 1367642,
       "id_match": "exact"
      },
      {
       "rank": 5,
+      "title": "Allen",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt37675123",
+      "tmdb_id": 1518204,
+      "id_match": "exact"
+     },
+     {
+      "rank": 6,
       "title": "Sing 2",
       "season": null,
       "year": 2021,
@@ -59,48 +68,39 @@
       "id_match": "exact"
      },
      {
-      "rank": 6,
-      "title": "Sniper: The Last Stand",
-      "season": null,
-      "year": 2025,
-      "imdb_id": "tt34910018",
-      "tmdb_id": 1410082,
-      "id_match": "exact"
-     },
-     {
       "rank": 7,
-      "title": "Thanksgiving",
+      "title": "How the Grinch Stole Christmas",
       "season": null,
-      "year": 2023,
-      "imdb_id": "tt1448754",
-      "tmdb_id": 1071215,
+      "year": 2000,
+      "imdb_id": "tt0170016",
+      "tmdb_id": 8871,
       "id_match": "exact"
      },
      {
       "rank": 8,
+      "title": "Funny Money: The Dane Cook Story",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt23148884",
+      "tmdb_id": 1757386,
+      "id_match": "exact"
+     },
+     {
+      "rank": 9,
+      "title": "All the Pretty Horses",
+      "season": null,
+      "year": 2000,
+      "imdb_id": "tt0149624",
+      "tmdb_id": 21355,
+      "id_match": "exact"
+     },
+     {
+      "rank": 10,
       "title": "Sing",
       "season": null,
       "year": 2016,
       "imdb_id": "tt3470600",
       "tmdb_id": 335797,
-      "id_match": "exact"
-     },
-     {
-      "rank": 9,
-      "title": "Kidnapped in Her Own Home: The Martha Carelli Story",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt39182249",
-      "tmdb_id": 1665152,
-      "id_match": "exact"
-     },
-     {
-      "rank": 10,
-      "title": "KPop Demon Hunters",
-      "season": null,
-      "year": 2025,
-      "imdb_id": "tt14205554",
-      "tmdb_id": 803796,
       "id_match": "exact"
      }
     ]
@@ -108,8 +108,8 @@
    "series": {
     "source_url": "https://www.netflix.com/tudum/top10/tv",
     "period": [
-     "2026-11-02",
-     "2026-11-08"
+     "2026-11-09",
+     "2026-11-15"
     ],
     "stale": false,
     "items": [
@@ -125,26 +125,6 @@
      },
      {
       "rank": 2,
-      "title": "The One About Matthew Perry",
-      "season": 1,
-      "year": 2026,
-      "imdb_id": "tt44941753",
-      "tmdb_id": 333533,
-      "id_match": "exact",
-      "raw_title": "The One About Matthew Perry: Season 1"
-     },
-     {
-      "rank": 3,
-      "title": "Nobody Wants This",
-      "season": 3,
-      "year": 2024,
-      "imdb_id": "tt26933824",
-      "tmdb_id": 250923,
-      "id_match": "exact",
-      "raw_title": "Nobody Wants This: Season 3"
-     },
-     {
-      "rank": 4,
       "title": "Black Doves",
       "season": 2,
       "year": 2024,
@@ -154,64 +134,84 @@
       "raw_title": "Black Doves: Season 2"
      },
      {
+      "rank": 3,
+      "title": "The Body",
+      "season": 1,
+      "year": 2026,
+      "imdb_id": "tt8014982",
+      "tmdb_id": 291507,
+      "id_match": "exact",
+      "raw_title": "The Body: Season 1"
+     },
+     {
+      "rank": 4,
+      "title": "Doozie's Doghouse",
+      "season": 1,
+      "year": 2026,
+      "imdb_id": "tt47596905",
+      "tmdb_id": 336478,
+      "id_match": "exact",
+      "raw_title": "Doozie's Doghouse: Season 1"
+     },
+     {
       "rank": 5,
+      "title": "Black Doves",
+      "season": 1,
+      "year": 2024,
+      "imdb_id": "tt27995113",
+      "tmdb_id": 225385,
+      "id_match": "exact",
+      "raw_title": "Black Doves: Season 1"
+     },
+     {
+      "rank": 6,
+      "title": "Power",
+      "season": 1,
+      "year": 2014,
+      "imdb_id": "tt3281796",
+      "tmdb_id": 54650,
+      "id_match": "exact",
+      "raw_title": "Power: Season 1"
+     },
+     {
+      "rank": 7,
       "title": "Raw",
       "season": null,
       "year": 1993,
       "imdb_id": "tt0185103",
       "tmdb_id": 4656,
       "id_match": "exact",
-      "raw_title": "Raw: 2026 - November 2, 2026"
-     },
-     {
-      "rank": 6,
-      "title": "Below",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt35934755",
-      "tmdb_id": 285322,
-      "id_match": "exact",
-      "raw_title": "Below: Limited Series"
-     },
-     {
-      "rank": 7,
-      "title": "Love Is Blind",
-      "season": 11,
-      "year": 2020,
-      "imdb_id": "tt11704040",
-      "tmdb_id": 99353,
-      "id_match": "exact",
-      "raw_title": "Love Is Blind: S11: Boston"
+      "raw_title": "Raw: 2026 - November 9, 2026"
      },
      {
       "rank": 8,
-      "title": "Will Trent",
-      "season": 1,
-      "year": 2023,
-      "imdb_id": "tt17543592",
-      "tmdb_id": 208569,
+      "title": "Nobody Wants This",
+      "season": 3,
+      "year": 2024,
+      "imdb_id": "tt26933824",
+      "tmdb_id": 250923,
       "id_match": "exact",
-      "raw_title": "Will Trent: Season 1"
+      "raw_title": "Nobody Wants This: Season 3"
      },
      {
       "rank": 9,
-      "title": "The Diplomat",
-      "season": 4,
-      "year": 2023,
-      "imdb_id": "tt17491088",
-      "tmdb_id": 203857,
+      "title": "The One About Matthew Perry",
+      "season": 1,
+      "year": 2026,
+      "imdb_id": "tt44941753",
+      "tmdb_id": 333533,
       "id_match": "exact",
-      "raw_title": "The Diplomat: Season 4"
+      "raw_title": "The One About Matthew Perry: Season 1"
      },
      {
       "rank": 10,
-      "title": "East of Eden",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt21097264",
-      "tmdb_id": 258165,
+      "title": "Danny Go!",
+      "season": 2,
+      "year": 2019,
+      "imdb_id": "tt13158394",
+      "tmdb_id": 258124,
       "id_match": "exact",
-      "raw_title": "East of Eden: Limited Series"
+      "raw_title": "Danny Go!: Season 2"
      }
     ]
    }
@@ -552,24 +552,6 @@
      },
      {
       "rank": 2,
-      "title": "Reasonable Doubt",
-      "season": null,
-      "year": 2022,
-      "imdb_id": "tt11231226",
-      "tmdb_id": 205272,
-      "id_match": "exact"
-     },
-     {
-      "rank": 3,
-      "title": "General Hospital",
-      "season": null,
-      "year": 1963,
-      "imdb_id": "tt0056758",
-      "tmdb_id": 987,
-      "id_match": "exact"
-     },
-     {
-      "rank": 4,
       "title": "ABC 20/20",
       "season": null,
       "year": null,
@@ -578,7 +560,7 @@
       "id_match": "fuzzy"
      },
      {
-      "rank": 5,
+      "rank": 3,
       "title": "9-1-1",
       "season": null,
       "year": 2018,
@@ -587,7 +569,7 @@
       "id_match": "exact"
      },
      {
-      "rank": 6,
+      "rank": 4,
       "title": "Grey's Anatomy",
       "season": null,
       "year": 2005,
@@ -596,16 +578,7 @@
       "id_match": "exact"
      },
      {
-      "rank": 7,
-      "title": "The Kardashians",
-      "season": null,
-      "year": 2022,
-      "imdb_id": "tt15791630",
-      "tmdb_id": 154521,
-      "id_match": "exact"
-     },
-     {
-      "rank": 8,
+      "rank": 5,
       "title": "9-1-1: Nashville",
       "season": null,
       "year": 2025,
@@ -614,21 +587,48 @@
       "id_match": "exact"
      },
      {
-      "rank": 9,
-      "title": "Phony",
+      "rank": 6,
+      "title": "The Kardashians",
       "season": null,
-      "year": 2026,
-      "imdb_id": "tt21952924",
-      "tmdb_id": 275139,
+      "year": 2022,
+      "imdb_id": "tt15791630",
+      "tmdb_id": 154521,
       "id_match": "exact"
      },
      {
-      "rank": 10,
+      "rank": 7,
+      "title": "Love Island: Australia",
+      "season": null,
+      "year": 2018,
+      "imdb_id": "tt8467296",
+      "tmdb_id": 79792,
+      "id_match": "exact"
+     },
+     {
+      "rank": 8,
+      "title": "Abbott Elementary",
+      "season": null,
+      "year": 2021,
+      "imdb_id": "tt14218830",
+      "tmdb_id": 125935,
+      "id_match": "exact"
+     },
+     {
+      "rank": 9,
       "title": "All's Fair",
       "season": null,
       "year": 2025,
       "imdb_id": "tt30291387",
       "tmdb_id": 258742,
+      "id_match": "exact"
+     },
+     {
+      "rank": 10,
+      "title": "Reasonable Doubt",
+      "season": null,
+      "year": 2022,
+      "imdb_id": "tt11231226",
+      "tmdb_id": 205272,
       "id_match": "exact"
      }
     ]

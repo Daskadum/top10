@@ -35,6 +35,18 @@
   "tmdb_id": 1727734,
   "year": 2026
  },
+ "movie|all the pretty horses": {
+  "id_match": "exact",
+  "imdb_id": "tt0149624",
+  "tmdb_id": 21355,
+  "year": 2000
+ },
+ "movie|allen": {
+  "id_match": "exact",
+  "imdb_id": "tt37675123",
+  "tmdb_id": 1518204,
+  "year": 2026
+ },
  "movie|apocalypse z new world": {
   "id_match": "exact",
   "imdb_id": "tt37522541",
@@ -185,10 +197,22 @@
   "tmdb_id": 330457,
   "year": 2019
  },
+ "movie|funny money the dane cook story": {
+  "id_match": "exact",
+  "imdb_id": "tt23148884",
+  "tmdb_id": 1757386,
+  "year": 2026
+ },
  "movie|get out": {
   "id_match": "exact",
   "imdb_id": "tt32321803",
   "tmdb_id": 1279493,
+  "year": 2026
+ },
+ "movie|gospel of christmas": {
+  "id_match": "exact",
+  "imdb_id": "tt38420997",
+  "tmdb_id": 1559980,
   "year": 2026
  },
  "movie|grinch": {
@@ -196,6 +220,12 @@
   "imdb_id": "tt2709692",
   "tmdb_id": 360920,
   "year": 2018
+ },
+ "movie|heartland": {
+  "id_match": "exact",
+  "imdb_id": "tt38213251",
+  "tmdb_id": 1543469,
+  "year": 2026
  },
  "movie|holiday": {
   "id_match": "exact",
@@ -419,6 +449,12 @@
   "tmdb_id": 401981,
   "year": 2018
  },
+ "movie|reminders of him": {
+  "id_match": "exact",
+  "imdb_id": "tt33714084",
+  "tmdb_id": 1367642,
+  "year": 2026
+ },
  "movie|santa clause": {
   "id_match": "exact",
   "imdb_id": "tt0111070",
@@ -605,6 +641,12 @@
   "tmdb_id": 211201,
   "year": 2022
  },
+ "tv|body": {
+  "id_match": "exact",
+  "imdb_id": "tt8014982",
+  "tmdb_id": 291507,
+  "year": 2026
+ },
  "tv|boston blue": {
   "id_match": "exact",
   "imdb_id": "tt35826715",
@@ -671,6 +713,12 @@
   "tmdb_id": 1508,
   "year": 2005
  },
+ "tv|danny go": {
+  "id_match": "exact",
+  "imdb_id": "tt13158394",
+  "tmdb_id": 258124,
+  "year": 2019
+ },
  "tv|dexter resurrection": {
   "id_match": "exact",
   "imdb_id": "tt33043892",
@@ -682,6 +730,12 @@
   "imdb_id": "tt17491088",
   "tmdb_id": 203857,
   "year": 2023
+ },
+ "tv|doozies doghouse": {
+  "id_match": "exact",
+  "imdb_id": "tt47596905",
+  "tmdb_id": 336478,
+  "year": 2026
  },
  "tv|east of eden": {
   "id_match": "exact",
@@ -845,6 +899,12 @@
   "tmdb_id": 99353,
   "year": 2020
  },
+ "tv|love island australia": {
+  "id_match": "exact",
+  "imdb_id": "tt8467296",
+  "tmdb_id": 79792,
+  "year": 2018
+ },
  "tv|marshals": {
   "id_match": "exact",
   "imdb_id": "tt36849871",
@@ -904,6 +964,12 @@
   "imdb_id": "tt21952924",
   "tmdb_id": 275139,
   "year": 2026
+ },
+ "tv|power": {
+  "id_match": "exact",
+  "imdb_id": "tt3281796",
+  "tmdb_id": 54650,
+  "year": 2014
  },
  "tv|raw": {
   "id_match": "exact",
