@@ -113,6 +113,12 @@
   "tmdb_id": 14836,
   "year": 2009
  },
+ "movie|darius rucker they called me hootie": {
+  "id_match": "exact",
+  "imdb_id": "tt51201053",
+  "tmdb_id": 1822873,
+  "year": 2026
+ },
  "movie|day after tomorrow": {
   "id_match": "exact",
   "imdb_id": "tt0319262",
@@ -437,11 +443,23 @@
   "tmdb_id": 5255,
   "year": 2004
  },
+ "movie|postcards for christmas": {
+  "id_match": "exact",
+  "imdb_id": "tt50880016",
+  "tmdb_id": 1807995,
+  "year": 2026
+ },
  "movie|prisoners": {
   "id_match": "exact",
   "imdb_id": "tt1392214",
   "tmdb_id": 146233,
   "year": 2013
+ },
+ "movie|red one": {
+  "id_match": "exact",
+  "imdb_id": "tt14948432",
+  "tmdb_id": 845781,
+  "year": 2024
  },
  "movie|red sparrow": {
   "id_match": "exact",
@@ -543,6 +561,12 @@
   "id_match": "exact",
   "imdb_id": "tt36983905",
   "tmdb_id": 977942,
+  "year": 2026
+ },
+ "movie|vibe": {
+  "id_match": "exact",
+  "imdb_id": "tt40856286",
+  "tmdb_id": 1654566,
   "year": 2026
  },
  "movie|were the millers": {
@@ -700,6 +724,12 @@
   "imdb_id": "tt2805096",
   "tmdb_id": 58841,
   "year": 2014
+ },
+ "tv|chosen": {
+  "id_match": "exact",
+  "imdb_id": "tt5622316",
+  "tmdb_id": 85077,
+  "year": 2019
  },
  "tv|circle": {
   "id_match": "exact",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:09:42-05:00",
+ "generated_at": "2026-11-18T21:35:40-05:00",
  "services": {
   "netflix": {
    "official": true,
@@ -223,8 +223,8 @@
    "movies": {
     "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
     "period": [
-     "2026-11-02",
-     "2026-11-08"
+     "2026-11-09",
+     "2026-11-15"
     ],
     "stale": false,
     "items": [
@@ -239,16 +239,6 @@
      },
      {
       "rank": 2,
-      "title": "Apocalypse Z: New World",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt37522541",
-      "tmdb_id": 1507696,
-      "id_match": "exact",
-      "raw_title": "Apocalypse Z: New World / Apocalipsis Z: Nuevo Mundo (International Original – Spain)"
-     },
-     {
-      "rank": 3,
       "title": "Drive - The Pretenders",
       "season": null,
       "year": 2026,
@@ -258,16 +248,17 @@
       "raw_title": "Drive - The Pretenders (International Original – Germany)"
      },
      {
-      "rank": 4,
-      "title": "Love of Your Life",
+      "rank": 3,
+      "title": "Apocalypse Z: New World",
       "season": null,
       "year": 2026,
-      "imdb_id": "tt34384900",
-      "tmdb_id": 1381078,
-      "id_match": "exact"
+      "imdb_id": "tt37522541",
+      "tmdb_id": 1507696,
+      "id_match": "exact",
+      "raw_title": "Apocalypse Z: New World / Apocalipsis Z: Nuevo Mundo (International Original – Spain)"
      },
      {
-      "rank": 5,
+      "rank": 4,
       "title": "Mirzapur: The Movie",
       "season": null,
       "year": 2026,
@@ -275,6 +266,15 @@
       "tmdb_id": 1378537,
       "id_match": "exact",
       "raw_title": "Mirzapur: The Movie (International Original – India)"
+     },
+     {
+      "rank": 5,
+      "title": "Love of Your Life",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt34384900",
+      "tmdb_id": 1381078,
+      "id_match": "exact"
      },
      {
       "rank": 6,
@@ -288,15 +288,6 @@
      },
      {
       "rank": 7,
-      "title": "Ali G: Who Iz I?",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt43655467",
-      "tmdb_id": 1727734,
-      "id_match": "exact"
-     },
-     {
-      "rank": 8,
       "title": "The Love Hypothesis",
       "season": null,
       "year": 2026,
@@ -305,41 +296,50 @@
       "id_match": "exact"
      },
      {
+      "rank": 8,
+      "title": "Ali G: Who Iz I?",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt43655467",
+      "tmdb_id": 1727734,
+      "id_match": "exact"
+     },
+     {
       "rank": 9,
-      "title": "Apocalypse Z: The Beginning of the End",
+      "title": "Red One",
       "season": null,
       "year": 2024,
-      "imdb_id": "tt27599851",
-      "tmdb_id": 1118031,
-      "id_match": "exact",
-      "raw_title": "Apocalypse Z: The Beginning of the End / Apocalipsis Z: El principio del fin (International Original – Spain)"
+      "imdb_id": "tt14948432",
+      "tmdb_id": 845781,
+      "id_match": "exact"
      },
      {
       "rank": 10,
-      "title": "Masters of the Universe",
+      "title": "Vibe",
       "season": null,
       "year": 2026,
-      "imdb_id": "tt0427340",
-      "tmdb_id": 454639,
-      "id_match": "exact"
+      "imdb_id": "tt40856286",
+      "tmdb_id": 1654566,
+      "id_match": "exact",
+      "raw_title": "Vibe (International Original – India)"
      }
     ]
    },
    "series": {
     "source_url": "https://www.aboutamazon.com/news/entertainment/prime-video-top-10-movies-shows",
     "period": [
-     "2026-11-02",
-     "2026-11-08"
+     "2026-11-09",
+     "2026-11-15"
     ],
     "stale": false,
     "items": [
      {
       "rank": 1,
-      "title": "The Terminal List",
+      "title": "The Lord of the Rings: The Rings of Power",
       "season": null,
       "year": 2022,
-      "imdb_id": "tt11743610",
-      "tmdb_id": 120911,
+      "imdb_id": "tt7631058",
+      "tmdb_id": 84773,
       "id_match": "exact"
      },
      {
@@ -354,11 +354,11 @@
      },
      {
       "rank": 3,
-      "title": "Carrie",
+      "title": "The Terminal List",
       "season": null,
-      "year": 2026,
-      "imdb_id": "tt11540908",
-      "tmdb_id": 288673,
+      "year": 2022,
+      "imdb_id": "tt11743610",
+      "tmdb_id": 120911,
       "id_match": "exact"
      },
      {
@@ -372,6 +372,15 @@
      },
      {
       "rank": 5,
+      "title": "Carrie",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt11540908",
+      "tmdb_id": 288673,
+      "id_match": "exact"
+     },
+     {
+      "rank": 6,
       "title": "The Greatest",
       "season": null,
       "year": 2026,
@@ -380,25 +389,7 @@
       "id_match": "exact"
      },
      {
-      "rank": 6,
-      "title": "Neagley",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt33539520",
-      "tmdb_id": 273207,
-      "id_match": "exact"
-     },
-     {
       "rank": 7,
-      "title": "Off Campus",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt33546863",
-      "tmdb_id": 273240,
-      "id_match": "exact"
-     },
-     {
-      "rank": 8,
       "title": "Love in Disguise",
       "season": null,
       "year": 2026,
@@ -408,23 +399,31 @@
       "raw_title": "Love in Disguise (International Original – South Korea)"
      },
      {
-      "rank": 9,
-      "title": "The Lord of the Rings: The Rings of Power",
+      "rank": 8,
+      "title": "Off Campus",
       "season": null,
-      "year": 2022,
-      "imdb_id": "tt7631058",
-      "tmdb_id": 84773,
+      "year": 2026,
+      "imdb_id": "tt33546863",
+      "tmdb_id": 273240,
+      "id_match": "exact"
+     },
+     {
+      "rank": 9,
+      "title": "Neagley",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt33539520",
+      "tmdb_id": 273207,
       "id_match": "exact"
      },
      {
       "rank": 10,
-      "title": "Love Transit 35+",
+      "title": "The Chosen",
       "season": null,
-      "year": 2026,
-      "imdb_id": null,
-      "tmdb_id": 341645,
-      "id_match": "exact",
-      "raw_title": "Love Transit 35+ (International Original – Japan)"
+      "year": 2019,
+      "imdb_id": "tt5622316",
+      "tmdb_id": 85077,
+      "id_match": "exact"
      }
     ]
    }
@@ -473,7 +472,7 @@
       "title": "Darius Rucker: They Called Me Hootie",
       "season": null,
       "year": 2026,
-      "imdb_id": null,
+      "imdb_id": "tt51201053",
       "tmdb_id": 1822873,
       "id_match": "exact"
      },
@@ -500,7 +499,7 @@
       "title": "Postcards for Christmas",
       "season": null,
       "year": 2026,
-      "imdb_id": null,
+      "imdb_id": "tt50880016",
       "tmdb_id": 1807995,
       "id_match": "exact"
      },
