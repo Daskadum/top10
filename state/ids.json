@@ -29,6 +29,12 @@
   "tmdb_id": 1570488,
   "year": 2026
  },
+ "movie|a paw patrol christmas": {
+  "id_match": "exact",
+  "imdb_id": "tt37671699",
+  "tmdb_id": 1507275,
+  "year": 2025
+ },
  "movie|ali g who iz i": {
   "id_match": "exact",
   "imdb_id": "tt43655467",
@@ -629,6 +635,12 @@
   "tmdb_id": 125935,
   "year": 2021
  },
+ "tv|all the queens men": {
+  "id_match": "exact",
+  "imdb_id": "tt14321632",
+  "tmdb_id": 133174,
+  "year": 2021
+ },
  "tv|alls fair": {
   "id_match": "exact",
   "imdb_id": "tt30291387",
@@ -911,6 +923,12 @@
   "tmdb_id": 154521,
   "year": 2022
  },
+ "tv|killing of the golden rooster": {
+  "id_match": "exact",
+  "imdb_id": "tt50816261",
+  "tmdb_id": 341769,
+  "year": 2026
+ },
  "tv|last week tonight with john oliver": {
   "id_match": "exact",
   "imdb_id": "tt3530232",
@@ -995,6 +1013,18 @@
   "tmdb_id": 4614,
   "year": 2003
  },
+ "tv|ncis new york": {
+  "id_match": "exact",
+  "imdb_id": "tt41814550",
+  "tmdb_id": 319800,
+  "year": 2026
+ },
+ "tv|ncis origins": {
+  "id_match": "exact",
+  "imdb_id": "tt30796986",
+  "tmdb_id": 243006,
+  "year": 2024
+ },
  "tv|neagley": {
   "id_match": "exact",
   "imdb_id": "tt33539520",
@@ -1048,6 +1078,12 @@
   "imdb_id": "tt9288030",
   "tmdb_id": 108978,
   "year": 2022
+ },
+ "tv|real housewives of new york city": {
+  "id_match": "exact",
+  "imdb_id": "tt1191056",
+  "tmdb_id": 14808,
+  "year": 2008
  },
  "tv|real housewives of orange county": {
   "id_match": "exact",
