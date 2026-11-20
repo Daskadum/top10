@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:21:49-05:00",
+ "generated_at": "2026-11-19T21:20:49-05:00",
  "services": {
   "netflix": {
    "official": true,
@@ -442,15 +442,6 @@
     "items": [
      {
       "rank": 1,
-      "title": "The 12 Dates of Christmas",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt39219651",
-      "tmdb_id": 1600653,
-      "id_match": "exact"
-     },
-     {
-      "rank": 2,
       "title": "The Hunger Games",
       "season": null,
       "year": 2012,
@@ -459,7 +450,7 @@
       "id_match": "exact"
      },
      {
-      "rank": 3,
+      "rank": 2,
       "title": "The Hunger Games: Catching Fire",
       "season": null,
       "year": 2013,
@@ -468,16 +459,16 @@
       "id_match": "exact"
      },
      {
-      "rank": 4,
-      "title": "Darius Rucker: They Called Me Hootie",
+      "rank": 3,
+      "title": "The 12 Dates of Christmas",
       "season": null,
       "year": 2026,
-      "imdb_id": "tt51201053",
-      "tmdb_id": 1822873,
+      "imdb_id": "tt39219651",
+      "tmdb_id": 1600653,
       "id_match": "exact"
      },
      {
-      "rank": 5,
+      "rank": 4,
       "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
       "season": null,
       "year": 2023,
@@ -486,25 +477,7 @@
       "id_match": "exact"
      },
      {
-      "rank": 6,
-      "title": "Super Troopers 3",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt8820258",
-      "tmdb_id": 675871,
-      "id_match": "exact"
-     },
-     {
-      "rank": 7,
-      "title": "Postcards for Christmas",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt50880016",
-      "tmdb_id": 1807995,
-      "id_match": "exact"
-     },
-     {
-      "rank": 8,
+      "rank": 5,
       "title": "The Hunger Games: Mockingjay - Part 1",
       "season": null,
       "year": 2014,
@@ -513,12 +486,39 @@
       "id_match": "exact"
      },
      {
-      "rank": 9,
+      "rank": 6,
       "title": "The Hunger Games: Mockingjay - Part 2",
       "season": null,
       "year": 2015,
       "imdb_id": "tt1951266",
       "tmdb_id": 131634,
+      "id_match": "exact"
+     },
+     {
+      "rank": 7,
+      "title": "Darius Rucker: They Called Me Hootie",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt51201053",
+      "tmdb_id": 1822873,
+      "id_match": "exact"
+     },
+     {
+      "rank": 8,
+      "title": "Super Troopers 3",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt8820258",
+      "tmdb_id": 675871,
+      "id_match": "exact"
+     },
+     {
+      "rank": 9,
+      "title": "Postcards for Christmas",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt50880016",
+      "tmdb_id": 1807995,
       "id_match": "exact"
      },
      {
@@ -1255,7 +1255,7 @@
    "movies": {
     "source_url": "https://streamscope.app/peacock",
     "period": [
-     null,
+     "2026-11-19",
      "2026-11-19"
     ],
     "stale": false,
@@ -1355,7 +1355,7 @@
    "series": {
     "source_url": "https://streamscope.app/peacock",
     "period": [
-     null,
+     "2026-11-19",
      "2026-11-19"
     ],
     "stale": false,
