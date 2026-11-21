@@ -17,6 +17,12 @@
   "tmdb_id": 431530,
   "year": 2017
  },
+ "movie|a charlie brown christmas": {
+  "id_match": "exact",
+  "imdb_id": "tt0059026",
+  "tmdb_id": 13187,
+  "year": 1965
+ },
  "movie|a charlie brown thanksgiving": {
   "id_match": "exact",
   "imdb_id": "tt0068359",
@@ -1300,5 +1306,11 @@
   "imdb_id": "tt17543592",
   "tmdb_id": 208569,
   "year": 2023
+ },
+ "tv|yellowjackets": {
+  "id_match": "exact",
+  "imdb_id": "tt11041332",
+  "tmdb_id": 117488,
+  "year": 2021
  }
 }

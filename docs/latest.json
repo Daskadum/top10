@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:17:55-05:00",
+ "generated_at": "2026-11-21T11:49:51-05:00",
  "services": {
   "netflix": {
    "official": true,
@@ -244,8 +244,7 @@
       "year": 2026,
       "imdb_id": "tt37180686",
       "tmdb_id": 1596275,
-      "id_match": "exact",
-      "raw_title": "Drive - The Pretenders (International Original – Germany)"
+      "id_match": "exact"
      },
      {
       "rank": 3,
@@ -255,7 +254,7 @@
       "imdb_id": "tt37522541",
       "tmdb_id": 1507696,
       "id_match": "exact",
-      "raw_title": "Apocalypse Z: New World / Apocalipsis Z: Nuevo Mundo (International Original – Spain)"
+      "raw_title": "Apocalypse Z: New World / Apocalipsis Z: Nuevo Mundo"
      },
      {
       "rank": 4,
@@ -264,8 +263,7 @@
       "year": 2026,
       "imdb_id": "tt34339725",
       "tmdb_id": 1378537,
-      "id_match": "exact",
-      "raw_title": "Mirzapur: The Movie (International Original – India)"
+      "id_match": "exact"
      },
      {
       "rank": 5,
@@ -283,8 +281,7 @@
       "year": 2026,
       "imdb_id": "tt38672588",
       "tmdb_id": 1561726,
-      "id_match": "exact",
-      "raw_title": "Masterplan (International Original – France, Italy)"
+      "id_match": "exact"
      },
      {
       "rank": 7,
@@ -320,8 +317,7 @@
       "year": 2026,
       "imdb_id": "tt40856286",
       "tmdb_id": 1654566,
-      "id_match": "exact",
-      "raw_title": "Vibe (International Original – India)"
+      "id_match": "exact"
      }
     ]
    },
@@ -349,8 +345,7 @@
       "year": 2026,
       "imdb_id": "tt39943756",
       "tmdb_id": 303044,
-      "id_match": "exact",
-      "raw_title": "Campus Drivers (International Original – France)"
+      "id_match": "exact"
      },
      {
       "rank": 3,
@@ -395,8 +390,7 @@
       "year": 2026,
       "imdb_id": "tt45246384",
       "tmdb_id": 303745,
-      "id_match": "exact",
-      "raw_title": "Love in Disguise (International Original – South Korea)"
+      "id_match": "exact"
      },
      {
       "rank": 8,
@@ -435,8 +429,8 @@
    "movies": {
     "source_url": "https://www.hulu.com/hub/movies/collections/10022",
     "period": [
-     "2026-11-20",
-     "2026-11-20"
+     "2026-11-21",
+     "2026-11-21"
     ],
     "stale": false,
     "items": [
@@ -535,8 +529,8 @@
    "series": {
     "source_url": "https://www.hulu.com/hub/tv/collections/9979",
     "period": [
-     "2026-11-20",
-     "2026-11-20"
+     "2026-11-21",
+     "2026-11-21"
     ],
     "stale": false,
     "items": [
@@ -845,8 +839,8 @@
    "movies": {
     "source_url": "https://streamscope.app/max",
     "period": [
-     "2026-11-20",
-     "2026-11-20"
+     "2026-11-21",
+     "2026-11-21"
     ],
     "stale": false,
     "items": [
@@ -879,15 +873,6 @@
      },
      {
       "rank": 4,
-      "title": "The Invite",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt14173636",
-      "tmdb_id": 950028,
-      "id_match": "exact"
-     },
-     {
-      "rank": 5,
       "title": "National Lampoon's Christmas Vacation",
       "season": null,
       "year": 1989,
@@ -896,7 +881,25 @@
       "id_match": "exact"
      },
      {
+      "rank": 5,
+      "title": "The Invite",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt14173636",
+      "tmdb_id": 950028,
+      "id_match": "exact"
+     },
+     {
       "rank": 6,
+      "title": "The First Purge",
+      "season": null,
+      "year": 2018,
+      "imdb_id": "tt6133466",
+      "tmdb_id": 442249,
+      "id_match": "exact"
+     },
+     {
+      "rank": 7,
       "title": "Madame Web",
       "season": null,
       "year": 2024,
@@ -905,7 +908,7 @@
       "id_match": "exact"
      },
      {
-      "rank": 7,
+      "rank": 8,
       "title": "Christmas with the Kranks",
       "season": null,
       "year": 2004,
@@ -914,7 +917,7 @@
       "id_match": "exact"
      },
      {
-      "rank": 8,
+      "rank": 9,
       "title": "Red Sparrow",
       "season": null,
       "year": 2018,
@@ -923,21 +926,12 @@
       "id_match": "exact"
      },
      {
-      "rank": 9,
+      "rank": 10,
       "title": "Four Christmases",
       "season": null,
       "year": 2008,
       "imdb_id": "tt0369436",
       "tmdb_id": 12193,
-      "id_match": "exact"
-     },
-     {
-      "rank": 10,
-      "title": "The First Purge",
-      "season": null,
-      "year": 2018,
-      "imdb_id": "tt6133466",
-      "tmdb_id": 442249,
       "id_match": "exact"
      }
     ]
@@ -945,22 +939,13 @@
    "series": {
     "source_url": "https://streamscope.app/max",
     "period": [
-     "2026-11-20",
-     "2026-11-20"
+     "2026-11-21",
+     "2026-11-21"
     ],
     "stale": false,
     "items": [
      {
       "rank": 1,
-      "title": "The Gilded Age",
-      "season": null,
-      "year": 2022,
-      "imdb_id": "tt4406178",
-      "tmdb_id": 81723,
-      "id_match": "exact"
-     },
-     {
-      "rank": 2,
       "title": "War",
       "season": null,
       "year": 2026,
@@ -969,21 +954,30 @@
       "id_match": "exact"
      },
      {
-      "rank": 3,
-      "title": "Last Week Tonight with John Oliver",
+      "rank": 2,
+      "title": "The Gilded Age",
       "season": null,
-      "year": 2014,
-      "imdb_id": "tt3530232",
-      "tmdb_id": 60694,
+      "year": 2022,
+      "imdb_id": "tt4406178",
+      "tmdb_id": 81723,
       "id_match": "exact"
      },
      {
-      "rank": 4,
-      "title": "Deadly Women 2.0",
+      "rank": 3,
+      "title": "Deadly Invitation",
       "season": null,
-      "year": 2026,
+      "year": null,
       "imdb_id": null,
-      "tmdb_id": 341780,
+      "tmdb_id": null,
+      "id_match": "none"
+     },
+     {
+      "rank": 4,
+      "title": "Harry Potter: Wizards of Baking",
+      "season": null,
+      "year": 2024,
+      "imdb_id": "tt32374361",
+      "tmdb_id": 254514,
       "id_match": "exact"
      },
      {
@@ -997,11 +991,11 @@
      },
      {
       "rank": 6,
-      "title": "90 Day: Hunt For Love",
+      "title": "Last Week Tonight with John Oliver",
       "season": null,
-      "year": 2025,
-      "imdb_id": "tt36694933",
-      "tmdb_id": 290564,
+      "year": 2014,
+      "imdb_id": "tt3530232",
+      "tmdb_id": 60694,
       "id_match": "exact"
      },
      {
@@ -1015,29 +1009,29 @@
      },
      {
       "rank": 8,
-      "title": "Harry Potter: Wizards of Baking",
+      "title": "Deadly Women 2.0",
       "season": null,
-      "year": 2024,
-      "imdb_id": "tt32374361",
-      "tmdb_id": 254514,
+      "year": 2026,
+      "imdb_id": null,
+      "tmdb_id": 341780,
       "id_match": "exact"
      },
      {
       "rank": 9,
-      "title": "My Big Fat Fabulous Life",
+      "title": "90 Day: Hunt For Love",
       "season": null,
-      "year": 2015,
-      "imdb_id": "tt4388486",
-      "tmdb_id": 69880,
+      "year": 2025,
+      "imdb_id": "tt36694933",
+      "tmdb_id": 290564,
       "id_match": "exact"
      },
      {
       "rank": 10,
-      "title": "7 Little Johnstons",
+      "title": "Tournament of Champions: All-Star Christmas",
       "season": null,
-      "year": 2015,
-      "imdb_id": "tt3746948",
-      "tmdb_id": 62543,
+      "year": 2025,
+      "imdb_id": "tt38866811",
+      "tmdb_id": 305016,
       "id_match": "exact"
      }
     ]
@@ -1050,8 +1044,8 @@
    "movies": {
     "source_url": "https://streamscope.app/paramount-plus",
     "period": [
-     "2026-11-20",
-     "2026-11-20"
+     null,
+     "2026-11-21"
     ],
     "stale": false,
     "items": [
@@ -1093,15 +1087,6 @@
      },
      {
       "rank": 5,
-      "title": "Ballistic",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt13165898",
-      "tmdb_id": 1243741,
-      "id_match": "exact"
-     },
-     {
-      "rank": 6,
       "title": "A Paw Patrol Christmas",
       "season": null,
       "year": 2025,
@@ -1129,52 +1114,34 @@
      },
      {
       "rank": 9,
-      "title": "First Blood",
+      "title": "Rush Hour",
       "season": null,
-      "year": 1982,
-      "imdb_id": "tt0083944",
-      "tmdb_id": 1368,
+      "year": 1998,
+      "imdb_id": "tt0120812",
+      "tmdb_id": 2109,
       "id_match": "exact"
      },
      {
       "rank": 10,
-      "title": "Twister",
+      "title": "Scary Movie",
       "season": null,
-      "year": 1996,
-      "imdb_id": "tt0117998",
-      "tmdb_id": 664,
-      "id_match": "exact"
+      "year": 2026,
+      "imdb_id": "tt32093575",
+      "tmdb_id": 1273221,
+      "id_match": "ambiguous"
      }
     ]
    },
    "series": {
     "source_url": "https://streamscope.app/paramount-plus",
     "period": [
-     "2026-11-20",
-     "2026-11-20"
+     null,
+     "2026-11-21"
     ],
     "stale": false,
     "items": [
      {
       "rank": 1,
-      "title": "South Park",
-      "season": null,
-      "year": 1997,
-      "imdb_id": "tt0121955",
-      "tmdb_id": 2190,
-      "id_match": "exact"
-     },
-     {
-      "rank": 2,
-      "title": "NCIS",
-      "season": null,
-      "year": 2003,
-      "imdb_id": "tt0364845",
-      "tmdb_id": 4614,
-      "id_match": "exact"
-     },
-     {
-      "rank": 3,
       "title": "Tulsa King",
       "season": null,
       "year": 2022,
@@ -1183,34 +1150,7 @@
       "id_match": "exact"
      },
      {
-      "rank": 4,
-      "title": "Survivor",
-      "season": null,
-      "year": 2000,
-      "imdb_id": "tt0239195",
-      "tmdb_id": 14658,
-      "id_match": "exact"
-     },
-     {
-      "rank": 5,
-      "title": "Everybody Loves Raymond",
-      "season": null,
-      "year": 1996,
-      "imdb_id": "tt0115167",
-      "tmdb_id": 2140,
-      "id_match": "exact"
-     },
-     {
-      "rank": 6,
-      "title": "Marshals",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt36849871",
-      "tmdb_id": 290856,
-      "id_match": "exact"
-     },
-     {
-      "rank": 7,
+      "rank": 2,
       "title": "MobLand",
       "season": null,
       "year": 2025,
@@ -1219,30 +1159,75 @@
       "id_match": "exact"
      },
      {
+      "rank": 3,
+      "title": "South Park",
+      "season": null,
+      "year": 1997,
+      "imdb_id": "tt0121955",
+      "tmdb_id": 2190,
+      "id_match": "exact"
+     },
+     {
+      "rank": 4,
+      "title": "NCIS",
+      "season": null,
+      "year": 2003,
+      "imdb_id": "tt0364845",
+      "tmdb_id": 4614,
+      "id_match": "exact"
+     },
+     {
+      "rank": 5,
+      "title": "Dexter: Resurrection",
+      "season": null,
+      "year": 2025,
+      "imdb_id": "tt33043892",
+      "tmdb_id": 259909,
+      "id_match": "exact"
+     },
+     {
+      "rank": 6,
+      "title": "Yellowjackets",
+      "season": null,
+      "year": 2021,
+      "imdb_id": "tt11041332",
+      "tmdb_id": 117488,
+      "id_match": "exact"
+     },
+     {
+      "rank": 7,
+      "title": "Everybody Loves Raymond",
+      "season": null,
+      "year": 1996,
+      "imdb_id": "tt0115167",
+      "tmdb_id": 2140,
+      "id_match": "exact"
+     },
+     {
       "rank": 8,
+      "title": "Marshals",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt36849871",
+      "tmdb_id": 290856,
+      "id_match": "exact"
+     },
+     {
+      "rank": 9,
+      "title": "Cupertino",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt33270224",
+      "tmdb_id": 303630,
+      "id_match": "exact"
+     },
+     {
+      "rank": 10,
       "title": "Tracker",
       "season": null,
       "year": 2024,
       "imdb_id": "tt13875494",
       "tmdb_id": 211288,
-      "id_match": "exact"
-     },
-     {
-      "rank": 9,
-      "title": "All the Queen's Men",
-      "season": null,
-      "year": 2021,
-      "imdb_id": "tt14321632",
-      "tmdb_id": 133174,
-      "id_match": "exact"
-     },
-     {
-      "rank": 10,
-      "title": "Criminal Minds",
-      "season": null,
-      "year": 2005,
-      "imdb_id": "tt0452046",
-      "tmdb_id": 4057,
       "id_match": "exact"
      }
     ]
@@ -1255,8 +1240,8 @@
    "movies": {
     "source_url": "https://streamscope.app/peacock",
     "period": [
-     "2026-11-20",
-     "2026-11-20"
+     "2026-11-21",
+     "2026-11-21"
     ],
     "stale": false,
     "items": [
@@ -1271,33 +1256,6 @@
      },
      {
       "rank": 2,
-      "title": "The Secret Life of Pets 2",
-      "season": null,
-      "year": 2019,
-      "imdb_id": "tt5113040",
-      "tmdb_id": 412117,
-      "id_match": "exact"
-     },
-     {
-      "rank": 3,
-      "title": "The Secret Life of Pets",
-      "season": null,
-      "year": 2016,
-      "imdb_id": "tt2709768",
-      "tmdb_id": 328111,
-      "id_match": "exact"
-     },
-     {
-      "rank": 4,
-      "title": "The Grinch",
-      "season": null,
-      "year": 2018,
-      "imdb_id": "tt2709692",
-      "tmdb_id": 360920,
-      "id_match": "exact"
-     },
-     {
-      "rank": 5,
       "title": "The Hunger Games",
       "season": null,
       "year": 2012,
@@ -1306,7 +1264,16 @@
       "id_match": "exact"
      },
      {
-      "rank": 6,
+      "rank": 3,
+      "title": "The Grinch",
+      "season": null,
+      "year": 2018,
+      "imdb_id": "tt2709692",
+      "tmdb_id": 360920,
+      "id_match": "exact"
+     },
+     {
+      "rank": 4,
       "title": "The Hunger Games: Catching Fire",
       "season": null,
       "year": 2013,
@@ -1315,16 +1282,25 @@
       "id_match": "exact"
      },
      {
-      "rank": 7,
-      "title": "The Lorax",
+      "rank": 5,
+      "title": "The Secret Life of Pets 2",
       "season": null,
-      "year": 2012,
-      "imdb_id": "tt1482459",
-      "tmdb_id": 73723,
+      "year": 2019,
+      "imdb_id": "tt5113040",
+      "tmdb_id": 412117,
       "id_match": "exact"
      },
      {
-      "rank": 8,
+      "rank": 6,
+      "title": "The Secret Life of Pets",
+      "season": null,
+      "year": 2016,
+      "imdb_id": "tt2709768",
+      "tmdb_id": 328111,
+      "id_match": "exact"
+     },
+     {
+      "rank": 7,
       "title": "The Hunger Games: Mockingjay - Part 1",
       "season": null,
       "year": 2014,
@@ -1333,12 +1309,21 @@
       "id_match": "exact"
      },
      {
-      "rank": 9,
+      "rank": 8,
       "title": "The Uprising",
       "season": null,
       "year": 2026,
       "imdb_id": "tt36983905",
       "tmdb_id": 977942,
+      "id_match": "exact"
+     },
+     {
+      "rank": 9,
+      "title": "The Lorax",
+      "season": null,
+      "year": 2012,
+      "imdb_id": "tt1482459",
+      "tmdb_id": 73723,
       "id_match": "exact"
      },
      {
@@ -1355,13 +1340,22 @@
    "series": {
     "source_url": "https://streamscope.app/peacock",
     "period": [
-     "2026-11-20",
-     "2026-11-20"
+     "2026-11-21",
+     "2026-11-21"
     ],
     "stale": false,
     "items": [
      {
       "rank": 1,
+      "title": "The Traitors",
+      "season": null,
+      "year": 2025,
+      "imdb_id": "tt33347879",
+      "tmdb_id": 271489,
+      "id_match": "ambiguous"
+     },
+     {
+      "rank": 2,
       "title": "Nelly and Ashanti: We Belong Together",
       "season": null,
       "year": 2025,
@@ -1370,70 +1364,7 @@
       "id_match": "exact"
      },
      {
-      "rank": 2,
-      "title": "The Good Daughter",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt31842126",
-      "tmdb_id": 249565,
-      "id_match": "exact"
-     },
-     {
       "rank": 3,
-      "title": "The Real Housewives of Salt Lake City",
-      "season": null,
-      "year": 2020,
-      "imdb_id": "tt11363282",
-      "tmdb_id": 110381,
-      "id_match": "exact"
-     },
-     {
-      "rank": 4,
-      "title": "Chicago P.D.",
-      "season": null,
-      "year": 2014,
-      "imdb_id": "tt2805096",
-      "tmdb_id": 58841,
-      "id_match": "exact"
-     },
-     {
-      "rank": 5,
-      "title": "Chicago Fire",
-      "season": null,
-      "year": 2012,
-      "imdb_id": "tt2261391",
-      "tmdb_id": 44006,
-      "id_match": "exact"
-     },
-     {
-      "rank": 6,
-      "title": "Chicago Med",
-      "season": null,
-      "year": 2015,
-      "imdb_id": "tt4655480",
-      "tmdb_id": 62650,
-      "id_match": "exact"
-     },
-     {
-      "rank": 7,
-      "title": "Law & Order: Special Victims Unit",
-      "season": null,
-      "year": 1999,
-      "imdb_id": "tt0203259",
-      "tmdb_id": 2734,
-      "id_match": "exact"
-     },
-     {
-      "rank": 8,
-      "title": "St. Denis Medical",
-      "season": null,
-      "year": 2024,
-      "imdb_id": "tt21433690",
-      "tmdb_id": 251941,
-      "id_match": "exact"
-     },
-     {
-      "rank": 9,
       "title": "Southern Charm",
       "season": null,
       "year": 2014,
@@ -1442,12 +1373,66 @@
       "id_match": "exact"
      },
      {
-      "rank": 10,
-      "title": "The Real Housewives of New York City",
+      "rank": 4,
+      "title": "The Good Daughter",
       "season": null,
-      "year": 2008,
-      "imdb_id": "tt1191056",
-      "tmdb_id": 14808,
+      "year": 2026,
+      "imdb_id": "tt31842126",
+      "tmdb_id": 249565,
+      "id_match": "exact"
+     },
+     {
+      "rank": 5,
+      "title": "Chicago P.D.",
+      "season": null,
+      "year": 2014,
+      "imdb_id": "tt2805096",
+      "tmdb_id": 58841,
+      "id_match": "exact"
+     },
+     {
+      "rank": 6,
+      "title": "Chicago Fire",
+      "season": null,
+      "year": 2012,
+      "imdb_id": "tt2261391",
+      "tmdb_id": 44006,
+      "id_match": "exact"
+     },
+     {
+      "rank": 7,
+      "title": "Chicago Med",
+      "season": null,
+      "year": 2015,
+      "imdb_id": "tt4655480",
+      "tmdb_id": 62650,
+      "id_match": "exact"
+     },
+     {
+      "rank": 8,
+      "title": "Law & Order: Special Victims Unit",
+      "season": null,
+      "year": 1999,
+      "imdb_id": "tt0203259",
+      "tmdb_id": 2734,
+      "id_match": "exact"
+     },
+     {
+      "rank": 9,
+      "title": "The Real Housewives of Salt Lake City",
+      "season": null,
+      "year": 2020,
+      "imdb_id": "tt11363282",
+      "tmdb_id": 110381,
+      "id_match": "exact"
+     },
+     {
+      "rank": 10,
+      "title": "St. Denis Medical",
+      "season": null,
+      "year": 2024,
+      "imdb_id": "tt21433690",
+      "tmdb_id": 251941,
       "id_match": "exact"
      }
     ]
@@ -1460,8 +1445,8 @@
    "movies": {
     "source_url": "https://streamscope.app/apple-tv-plus",
     "period": [
-     "2026-11-20",
-     "2026-11-20"
+     "2026-11-21",
+     "2026-11-21"
     ],
     "stale": false,
     "items": [
@@ -1476,20 +1461,20 @@
      },
      {
       "rank": 2,
-      "title": "Being Heumann",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt15095848",
-      "tmdb_id": 1050981,
-      "id_match": "exact"
-     },
-     {
-      "rank": 3,
       "title": "Snoopy Presents: 12 Days of Snoopy",
       "season": null,
       "year": 2026,
       "imdb_id": "tt47791876",
       "tmdb_id": 1780407,
+      "id_match": "exact"
+     },
+     {
+      "rank": 3,
+      "title": "Being Heumann",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt15095848",
+      "tmdb_id": 1050981,
       "id_match": "exact"
      },
      {
@@ -1503,20 +1488,20 @@
      },
      {
       "rank": 5,
-      "title": "Prisoners",
-      "season": null,
-      "year": 2013,
-      "imdb_id": "tt1392214",
-      "tmdb_id": 146233,
-      "id_match": "exact"
-     },
-     {
-      "rank": 6,
       "title": "Mayday",
       "season": null,
       "year": 2026,
       "imdb_id": "tt28014327",
       "tmdb_id": 1137844,
+      "id_match": "exact"
+     },
+     {
+      "rank": 6,
+      "title": "Prisoners",
+      "season": null,
+      "year": 2013,
+      "imdb_id": "tt1392214",
+      "tmdb_id": 146233,
       "id_match": "exact"
      },
      {
@@ -1530,29 +1515,29 @@
      },
      {
       "rank": 8,
-      "title": "Body of Lies",
+      "title": "A Charlie Brown Christmas",
       "season": null,
-      "year": 2008,
-      "imdb_id": "tt0758774",
-      "tmdb_id": 12113,
+      "year": 1965,
+      "imdb_id": "tt0059026",
+      "tmdb_id": 13187,
       "id_match": "exact"
      },
      {
       "rank": 9,
-      "title": "Tenzing",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt6262770",
-      "tmdb_id": 1288069,
-      "id_match": "exact"
-     },
-     {
-      "rank": 10,
       "title": "Get Smart",
       "season": null,
       "year": 2008,
       "imdb_id": "tt0425061",
       "tmdb_id": 11665,
+      "id_match": "exact"
+     },
+     {
+      "rank": 10,
+      "title": "Body of Lies",
+      "season": null,
+      "year": 2008,
+      "imdb_id": "tt0758774",
+      "tmdb_id": 12113,
       "id_match": "exact"
      }
     ]
@@ -1560,18 +1545,18 @@
    "series": {
     "source_url": "https://streamscope.app/apple-tv-plus",
     "period": [
-     "2026-11-20",
-     "2026-11-20"
+     "2026-11-21",
+     "2026-11-21"
     ],
     "stale": false,
     "items": [
      {
       "rank": 1,
-      "title": "Stick",
+      "title": "Nocturne",
       "season": null,
-      "year": 2025,
-      "imdb_id": "tt31710249",
-      "tmdb_id": 248830,
+      "year": 2026,
+      "imdb_id": "tt26598805",
+      "tmdb_id": 292741,
       "id_match": "exact"
      },
      {
@@ -1585,11 +1570,11 @@
      },
      {
       "rank": 3,
-      "title": "Nocturne",
+      "title": "Stick",
       "season": null,
-      "year": 2026,
-      "imdb_id": "tt26598805",
-      "tmdb_id": 292741,
+      "year": 2025,
+      "imdb_id": "tt31710249",
+      "tmdb_id": 248830,
       "id_match": "exact"
      },
      {
@@ -1639,20 +1624,20 @@
      },
      {
       "rank": 9,
+      "title": "Awkwafina: The Unlikely Cook",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt38992068",
+      "tmdb_id": 306179,
+      "id_match": "exact"
+     },
+     {
+      "rank": 10,
       "title": "Shrinking",
       "season": null,
       "year": 2023,
       "imdb_id": "tt15677150",
       "tmdb_id": 136311,
-      "id_match": "exact"
-     },
-     {
-      "rank": 10,
-      "title": "Widow's Bay",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt33332385",
-      "tmdb_id": 270476,
       "id_match": "exact"
      }
     ]
