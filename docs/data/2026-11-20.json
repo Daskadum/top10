@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:52:18-05:00",
+ "generated_at": "2026-11-20T21:17:55-05:00",
  "services": {
   "netflix": {
    "official": true,
@@ -244,7 +244,8 @@
       "year": 2026,
       "imdb_id": "tt37180686",
       "tmdb_id": 1596275,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Drive - The Pretenders (International Original – Germany)"
      },
      {
       "rank": 3,
@@ -254,7 +255,7 @@
       "imdb_id": "tt37522541",
       "tmdb_id": 1507696,
       "id_match": "exact",
-      "raw_title": "Apocalypse Z: New World / Apocalipsis Z: Nuevo Mundo"
+      "raw_title": "Apocalypse Z: New World / Apocalipsis Z: Nuevo Mundo (International Original – Spain)"
      },
      {
       "rank": 4,
@@ -263,7 +264,8 @@
       "year": 2026,
       "imdb_id": "tt34339725",
       "tmdb_id": 1378537,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Mirzapur: The Movie (International Original – India)"
      },
      {
       "rank": 5,
@@ -281,7 +283,8 @@
       "year": 2026,
       "imdb_id": "tt38672588",
       "tmdb_id": 1561726,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Masterplan (International Original – France, Italy)"
      },
      {
       "rank": 7,
@@ -317,7 +320,8 @@
       "year": 2026,
       "imdb_id": "tt40856286",
       "tmdb_id": 1654566,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Vibe (International Original – India)"
      }
     ]
    },
@@ -345,7 +349,8 @@
       "year": 2026,
       "imdb_id": "tt39943756",
       "tmdb_id": 303044,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Campus Drivers (International Original – France)"
      },
      {
       "rank": 3,
@@ -390,7 +395,8 @@
       "year": 2026,
       "imdb_id": "tt45246384",
       "tmdb_id": 303745,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Love in Disguise (International Original – South Korea)"
      },
      {
       "rank": 8,
@@ -634,8 +640,8 @@
    "movies": {
     "source_url": "https://streamscope.app/disney-plus",
     "period": [
-     "2026-11-19",
-     "2026-11-19"
+     "2026-11-20",
+     "2026-11-20"
     ],
     "stale": false,
     "items": [
@@ -704,29 +710,29 @@
      },
      {
       "rank": 8,
-      "title": "The Santa Clause 2",
-      "season": null,
-      "year": 2002,
-      "imdb_id": "tt0304669",
-      "tmdb_id": 9021,
-      "id_match": "exact"
-     },
-     {
-      "rank": 9,
-      "title": "Frozen II",
-      "season": null,
-      "year": 2019,
-      "imdb_id": "tt4520988",
-      "tmdb_id": 330457,
-      "id_match": "exact"
-     },
-     {
-      "rank": 10,
       "title": "The Hunger Games",
       "season": null,
       "year": 2012,
       "imdb_id": "tt1392170",
       "tmdb_id": 70160,
+      "id_match": "exact"
+     },
+     {
+      "rank": 9,
+      "title": "The Hunger Games: Catching Fire",
+      "season": null,
+      "year": 2013,
+      "imdb_id": "tt1951264",
+      "tmdb_id": 101299,
+      "id_match": "exact"
+     },
+     {
+      "rank": 10,
+      "title": "The Santa Clause 2",
+      "season": null,
+      "year": 2002,
+      "imdb_id": "tt0304669",
+      "tmdb_id": 9021,
       "id_match": "exact"
      }
     ]
@@ -734,8 +740,8 @@
    "series": {
     "source_url": "https://streamscope.app/disney-plus",
     "period": [
-     "2026-11-19",
-     "2026-11-19"
+     "2026-11-20",
+     "2026-11-20"
     ],
     "stale": false,
     "items": [
@@ -1538,6 +1544,15 @@
       "year": 2026,
       "imdb_id": "tt6262770",
       "tmdb_id": 1288069,
+      "id_match": "exact"
+     },
+     {
+      "rank": 10,
+      "title": "Get Smart",
+      "season": null,
+      "year": 2008,
+      "imdb_id": "tt0425061",
+      "tmdb_id": 11665,
       "id_match": "exact"
      }
     ]

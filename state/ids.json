@@ -221,6 +221,12 @@
   "tmdb_id": 1279493,
   "year": 2026
  },
+ "movie|get smart": {
+  "id_match": "exact",
+  "imdb_id": "tt0425061",
+  "tmdb_id": 11665,
+  "year": 2008
+ },
  "movie|gospel of christmas": {
   "id_match": "exact",
   "imdb_id": "tt38420997",
