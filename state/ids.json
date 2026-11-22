@@ -569,6 +569,12 @@
   "tmdb_id": 1071215,
   "year": 2023
  },
+ "movie|tony": {
+  "id_match": "exact",
+  "imdb_id": "tt33095251",
+  "tmdb_id": 1329016,
+  "year": 2026
+ },
  "movie|toy story 5": {
   "id_match": "exact",
   "imdb_id": "tt29355505",
@@ -743,6 +749,12 @@
   "tmdb_id": 288673,
   "year": 2026
  },
+ "tv|celebrity traitors": {
+  "id_match": "exact",
+  "imdb_id": "tt33248156",
+  "tmdb_id": 291431,
+  "year": 2025
+ },
  "tv|chicago fire": {
   "id_match": "exact",
   "imdb_id": "tt2261391",
@@ -772,6 +784,12 @@
   "imdb_id": "tt9581768",
   "tmdb_id": 97083,
   "year": 2020
+ },
+ "tv|coven academy": {
+  "id_match": "exact",
+  "imdb_id": "tt36064406",
+  "tmdb_id": 298505,
+  "year": 2026
  },
  "tv|criminal minds": {
   "id_match": "exact",
@@ -814,6 +832,12 @@
   "imdb_id": "tt17491088",
   "tmdb_id": 203857,
   "year": 2023
+ },
+ "tv|doctor foster": {
+  "id_match": "exact",
+  "imdb_id": "tt4602768",
+  "tmdb_id": 63913,
+  "year": 2015
  },
  "tv|doozies doghouse": {
   "id_match": "exact",
@@ -1066,6 +1090,12 @@
   "imdb_id": "tt36884306",
   "tmdb_id": 293313,
   "year": 2025
+ },
+ "tv|newlyweds": {
+  "id_match": "exact",
+  "imdb_id": "tt39469996",
+  "tmdb_id": 322267,
+  "year": 2026
  },
  "tv|nobody wants this": {
   "id_match": "exact",
