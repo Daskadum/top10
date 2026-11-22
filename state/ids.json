@@ -203,6 +203,12 @@
   "tmdb_id": 12193,
   "year": 2008
  },
+ "movie|frosty the snowman": {
+  "id_match": "exact",
+  "imdb_id": "tt0064349",
+  "tmdb_id": 13675,
+  "year": 1969
+ },
  "movie|frozen": {
   "id_match": "exact",
   "imdb_id": "tt2294629",
@@ -1084,6 +1090,12 @@
   "imdb_id": "tt44941753",
   "tmdb_id": 333533,
   "year": 2026
+ },
+ "tv|percy jackson and the olympians": {
+  "id_match": "exact",
+  "imdb_id": "tt12324366",
+  "tmdb_id": 103540,
+  "year": 2023
  },
  "tv|phony": {
   "id_match": "exact",

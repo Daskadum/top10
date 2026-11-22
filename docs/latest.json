@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T11:49:51-05:00",
+ "generated_at": "2026-11-21T20:21:27-05:00",
  "services": {
   "netflix": {
    "official": true,
@@ -244,7 +244,8 @@
       "year": 2026,
       "imdb_id": "tt37180686",
       "tmdb_id": 1596275,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Drive - The Pretenders (International Original – Germany)"
      },
      {
       "rank": 3,
@@ -254,7 +255,7 @@
       "imdb_id": "tt37522541",
       "tmdb_id": 1507696,
       "id_match": "exact",
-      "raw_title": "Apocalypse Z: New World / Apocalipsis Z: Nuevo Mundo"
+      "raw_title": "Apocalypse Z: New World / Apocalipsis Z: Nuevo Mundo (International Original – Spain)"
      },
      {
       "rank": 4,
@@ -263,7 +264,8 @@
       "year": 2026,
       "imdb_id": "tt34339725",
       "tmdb_id": 1378537,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Mirzapur: The Movie (International Original – India)"
      },
      {
       "rank": 5,
@@ -281,7 +283,8 @@
       "year": 2026,
       "imdb_id": "tt38672588",
       "tmdb_id": 1561726,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Masterplan (International Original – France, Italy)"
      },
      {
       "rank": 7,
@@ -317,7 +320,8 @@
       "year": 2026,
       "imdb_id": "tt40856286",
       "tmdb_id": 1654566,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Vibe (International Original – India)"
      }
     ]
    },
@@ -345,7 +349,8 @@
       "year": 2026,
       "imdb_id": "tt39943756",
       "tmdb_id": 303044,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Campus Drivers (International Original – France)"
      },
      {
       "rank": 3,
@@ -390,7 +395,8 @@
       "year": 2026,
       "imdb_id": "tt45246384",
       "tmdb_id": 303745,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Love in Disguise (International Original – South Korea)"
      },
      {
       "rank": 8,
@@ -454,20 +460,20 @@
      },
      {
       "rank": 3,
-      "title": "The 12 Dates of Christmas",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt39219651",
-      "tmdb_id": 1600653,
-      "id_match": "exact"
-     },
-     {
-      "rank": 4,
       "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
       "season": null,
       "year": 2023,
       "imdb_id": "tt10545296",
       "tmdb_id": 695721,
+      "id_match": "exact"
+     },
+     {
+      "rank": 4,
+      "title": "The 12 Dates of Christmas",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt39219651",
+      "tmdb_id": 1600653,
       "id_match": "exact"
      },
      {
@@ -490,11 +496,11 @@
      },
      {
       "rank": 7,
-      "title": "Darius Rucker: They Called Me Hootie",
+      "title": "The Holiday",
       "season": null,
-      "year": 2026,
-      "imdb_id": "tt51201053",
-      "tmdb_id": 1822873,
+      "year": 2006,
+      "imdb_id": "tt0457939",
+      "tmdb_id": 1581,
       "id_match": "exact"
      },
      {
@@ -508,20 +514,20 @@
      },
      {
       "rank": 9,
+      "title": "Darius Rucker: They Called Me Hootie",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt51201053",
+      "tmdb_id": 1822873,
+      "id_match": "exact"
+     },
+     {
+      "rank": 10,
       "title": "Postcards for Christmas",
       "season": null,
       "year": 2026,
       "imdb_id": "tt50880016",
       "tmdb_id": 1807995,
-      "id_match": "exact"
-     },
-     {
-      "rank": 10,
-      "title": "The Holiday",
-      "season": null,
-      "year": 2006,
-      "imdb_id": "tt0457939",
-      "tmdb_id": 1581,
       "id_match": "exact"
      }
     ]
@@ -634,8 +640,8 @@
    "movies": {
     "source_url": "https://streamscope.app/disney-plus",
     "period": [
-     "2026-11-20",
-     "2026-11-20"
+     "2026-11-21",
+     "2026-11-21"
     ],
     "stale": false,
     "items": [
@@ -734,8 +740,8 @@
    "series": {
     "source_url": "https://streamscope.app/disney-plus",
     "period": [
-     "2026-11-20",
-     "2026-11-20"
+     "2026-11-21",
+     "2026-11-21"
     ],
     "stale": false,
     "items": [
@@ -750,15 +756,6 @@
      },
      {
       "rank": 2,
-      "title": "The Remarried Empress",
-      "season": null,
-      "year": 2026,
-      "imdb_id": "tt39325975",
-      "tmdb_id": 279246,
-      "id_match": "exact"
-     },
-     {
-      "rank": 3,
       "title": "VisionQuest",
       "season": null,
       "year": 2026,
@@ -767,12 +764,21 @@
       "id_match": "exact"
      },
      {
-      "rank": 4,
+      "rank": 3,
       "title": "The Secret Lives of Mormon Wives: Orange County",
       "season": null,
       "year": 2026,
       "imdb_id": "tt42006761",
       "tmdb_id": 320507,
+      "id_match": "exact"
+     },
+     {
+      "rank": 4,
+      "title": "The Remarried Empress",
+      "season": null,
+      "year": 2026,
+      "imdb_id": "tt39325975",
+      "tmdb_id": 279246,
       "id_match": "exact"
      },
      {
@@ -786,6 +792,24 @@
      },
      {
       "rank": 6,
+      "title": "The Kardashians",
+      "season": null,
+      "year": 2022,
+      "imdb_id": "tt15791630",
+      "tmdb_id": 154521,
+      "id_match": "exact"
+     },
+     {
+      "rank": 7,
+      "title": "Percy Jackson and the Olympians",
+      "season": null,
+      "year": 2023,
+      "imdb_id": "tt12324366",
+      "tmdb_id": 103540,
+      "id_match": "exact"
+     },
+     {
+      "rank": 8,
       "title": "Best Medicine",
       "season": null,
       "year": 2026,
@@ -794,31 +818,13 @@
       "id_match": "exact"
      },
      {
-      "rank": 7,
+      "rank": 9,
       "title": "All's Fair",
       "season": null,
       "year": 2025,
       "imdb_id": "tt30291387",
       "tmdb_id": 258742,
       "id_match": "exact"
-     },
-     {
-      "rank": 8,
-      "title": "Reasonable Doubt",
-      "season": null,
-      "year": 2022,
-      "imdb_id": "tt11231226",
-      "tmdb_id": 205272,
-      "id_match": "exact"
-     },
-     {
-      "rank": 9,
-      "title": "Doc",
-      "season": null,
-      "year": 2025,
-      "imdb_id": "tt26748321",
-      "tmdb_id": 255055,
-      "id_match": "ambiguous"
      },
      {
       "rank": 10,
@@ -839,7 +845,7 @@
    "movies": {
     "source_url": "https://streamscope.app/max",
     "period": [
-     "2026-11-21",
+     null,
      "2026-11-21"
     ],
     "stale": false,
@@ -939,7 +945,7 @@
    "series": {
     "source_url": "https://streamscope.app/max",
     "period": [
-     "2026-11-21",
+     null,
      "2026-11-21"
     ],
     "stale": false,
@@ -1044,7 +1050,7 @@
    "movies": {
     "source_url": "https://streamscope.app/paramount-plus",
     "period": [
-     null,
+     "2026-11-21",
      "2026-11-21"
     ],
     "stale": false,
@@ -1095,6 +1101,15 @@
       "id_match": "exact"
      },
      {
+      "rank": 6,
+      "title": "Frosty the Snowman",
+      "season": null,
+      "year": 1969,
+      "imdb_id": "tt0064349",
+      "tmdb_id": 13675,
+      "id_match": "exact"
+     },
+     {
       "rank": 7,
       "title": "The Get Out",
       "season": null,
@@ -1135,7 +1150,7 @@
    "series": {
     "source_url": "https://streamscope.app/paramount-plus",
     "period": [
-     null,
+     "2026-11-21",
      "2026-11-21"
     ],
     "stale": false,
