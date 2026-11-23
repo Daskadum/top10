@@ -83,6 +83,12 @@
   "tmdb_id": 10147,
   "year": 2003
  },
+ "movie|bad santa 2": {
+  "id_match": "exact",
+  "imdb_id": "tt1798603",
+  "tmdb_id": 338964,
+  "year": 2016
+ },
  "movie|ballistic": {
   "id_match": "exact",
   "imdb_id": "tt13165898",
@@ -400,6 +406,12 @@
   "imdb_id": "tt28014327",
   "tmdb_id": 1137844,
   "year": 2026
+ },
+ "movie|meet the parents": {
+  "id_match": "exact",
+  "imdb_id": "tt0212338",
+  "tmdb_id": 1597,
+  "year": 2000
  },
  "movie|minions and monsters": {
   "id_match": "exact",
@@ -1043,11 +1055,23 @@
   "tmdb_id": 79792,
   "year": 2018
  },
+ "tv|mad pooper": {
+  "id_match": "exact",
+  "imdb_id": "tt50141720",
+  "tmdb_id": 342695,
+  "year": 2026
+ },
  "tv|marshals": {
   "id_match": "exact",
   "imdb_id": "tt36849871",
   "tmdb_id": 290856,
   "year": 2026
+ },
+ "tv|miraculous tales of ladybug and cat noir": {
+  "id_match": "exact",
+  "imdb_id": "tt2580046",
+  "tmdb_id": 65334,
+  "year": 2015
  },
  "tv|mobland": {
   "id_match": "exact",
