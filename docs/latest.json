@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T16:30:00-05:00",
+ "generated_at": "2026-11-24T00:20:44-05:00",
  "services": {
   "netflix": {
    "official": true,
@@ -244,8 +244,7 @@
       "year": 2026,
       "imdb_id": "tt37180686",
       "tmdb_id": 1596275,
-      "id_match": "exact",
-      "raw_title": "Drive - The Pretenders (International Original – Germany)"
+      "id_match": "exact"
      },
      {
       "rank": 3,
@@ -255,7 +254,7 @@
       "imdb_id": "tt37522541",
       "tmdb_id": 1507696,
       "id_match": "exact",
-      "raw_title": "Apocalypse Z: New World / Apocalipsis Z: Nuevo Mundo (International Original – Spain)"
+      "raw_title": "Apocalypse Z: New World / Apocalipsis Z: Nuevo Mundo"
      },
      {
       "rank": 4,
@@ -264,8 +263,7 @@
       "year": 2026,
       "imdb_id": "tt34339725",
       "tmdb_id": 1378537,
-      "id_match": "exact",
-      "raw_title": "Mirzapur: The Movie (International Original – India)"
+      "id_match": "exact"
      },
      {
       "rank": 5,
@@ -283,8 +281,7 @@
       "year": 2026,
       "imdb_id": "tt38672588",
       "tmdb_id": 1561726,
-      "id_match": "exact",
-      "raw_title": "Masterplan (International Original – France, Italy)"
+      "id_match": "exact"
      },
      {
       "rank": 7,
@@ -320,8 +317,7 @@
       "year": 2026,
       "imdb_id": "tt40856286",
       "tmdb_id": 1654566,
-      "id_match": "exact",
-      "raw_title": "Vibe (International Original – India)"
+      "id_match": "exact"
      }
     ]
    },
@@ -349,8 +345,7 @@
       "year": 2026,
       "imdb_id": "tt39943756",
       "tmdb_id": 303044,
-      "id_match": "exact",
-      "raw_title": "Campus Drivers (International Original – France)"
+      "id_match": "exact"
      },
      {
       "rank": 3,
@@ -395,8 +390,7 @@
       "year": 2026,
       "imdb_id": "tt45246384",
       "tmdb_id": 303745,
-      "id_match": "exact",
-      "raw_title": "Love in Disguise (International Original – South Korea)"
+      "id_match": "exact"
      },
      {
       "rank": 8,
@@ -435,8 +429,8 @@
    "movies": {
     "source_url": "https://www.hulu.com/hub/movies/collections/10022",
     "period": [
-     "2026-11-23",
-     "2026-11-23"
+     "2026-11-24",
+     "2026-11-24"
     ],
     "stale": false,
     "items": [
@@ -478,6 +472,15 @@
      },
      {
       "rank": 5,
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "season": null,
+      "year": 2015,
+      "imdb_id": "tt1951266",
+      "tmdb_id": 131634,
+      "id_match": "exact"
+     },
+     {
+      "rank": 6,
       "title": "The 12 Dates of Christmas",
       "season": null,
       "year": 2026,
@@ -486,7 +489,7 @@
       "id_match": "exact"
      },
      {
-      "rank": 6,
+      "rank": 7,
       "title": "The Polar Express",
       "season": null,
       "year": 2004,
@@ -495,21 +498,12 @@
       "id_match": "exact"
      },
      {
-      "rank": 7,
+      "rank": 8,
       "title": "National Lampoon's Christmas Vacation",
       "season": null,
       "year": 1989,
       "imdb_id": "tt0097958",
       "tmdb_id": 5825,
-      "id_match": "exact"
-     },
-     {
-      "rank": 8,
-      "title": "The Hunger Games: Mockingjay - Part 2",
-      "season": null,
-      "year": 2015,
-      "imdb_id": "tt1951266",
-      "tmdb_id": 131634,
       "id_match": "exact"
      },
      {
@@ -523,11 +517,11 @@
      },
      {
       "rank": 10,
-      "title": "Super Troopers 3",
+      "title": "Four Christmases",
       "season": null,
-      "year": 2026,
-      "imdb_id": "tt8820258",
-      "tmdb_id": 675871,
+      "year": 2008,
+      "imdb_id": "tt0369436",
+      "tmdb_id": 12193,
       "id_match": "exact"
      }
     ]
@@ -535,8 +529,8 @@
    "series": {
     "source_url": "https://www.hulu.com/hub/tv/collections/9979",
     "period": [
-     "2026-11-23",
-     "2026-11-23"
+     "2026-11-24",
+     "2026-11-24"
     ],
     "stale": false,
     "items": [
@@ -1532,9 +1526,9 @@
       "rank": 8,
       "title": "Matchbox",
       "season": null,
-      "year": 2025,
+      "year": 2026,
       "imdb_id": null,
-      "tmdb_id": 1478540,
+      "tmdb_id": 1631887,
       "id_match": "ambiguous"
      },
      {
