@@ -155,6 +155,12 @@
   "tmdb_id": 20352,
   "year": 2010
  },
+ "movie|despicable me 4": {
+  "id_match": "exact",
+  "imdb_id": "tt7510222",
+  "tmdb_id": 519182,
+  "year": 2024
+ },
  "movie|dracula": {
   "id_match": "exact",
   "imdb_id": "tt31434030",
@@ -256,6 +262,12 @@
   "imdb_id": "tt2709692",
   "tmdb_id": 360920,
   "year": 2018
+ },
+ "movie|guarding stars": {
+  "id_match": "exact",
+  "imdb_id": "tt6611324",
+  "tmdb_id": 1551025,
+  "year": 2026
  },
  "movie|heartland": {
   "id_match": "exact",
@@ -455,6 +467,12 @@
   "tmdb_id": 290250,
   "year": 2016
  },
+ "movie|obsession": {
+  "id_match": "exact",
+  "imdb_id": "tt37287335",
+  "tmdb_id": 1339713,
+  "year": 2026
+ },
  "movie|one mile chapter one": {
   "id_match": "exact",
   "imdb_id": "tt24326458",
@@ -515,6 +533,12 @@
   "tmdb_id": 2109,
   "year": 1998
  },
+ "movie|russell brand open secret": {
+  "id_match": "exact",
+  "imdb_id": "tt50969289",
+  "tmdb_id": 1823907,
+  "year": 2026
+ },
  "movie|santa clause": {
   "id_match": "exact",
   "imdb_id": "tt0111070",
@@ -561,6 +585,12 @@
   "id_match": "exact",
   "imdb_id": "tt47791876",
   "tmdb_id": 1780407,
+  "year": 2026
+ },
+ "movie|steps": {
+  "id_match": "exact",
+  "imdb_id": "tt14413964",
+  "tmdb_id": 1595124,
   "year": 2026
  },
  "movie|super troopers 3": {
@@ -844,6 +874,12 @@
   "imdb_id": "tt33043892",
   "tmdb_id": 259909,
   "year": 2025
+ },
+ "tv|dig": {
+  "id_match": "exact",
+  "imdb_id": "tt36843594",
+  "tmdb_id": 290826,
+  "year": 2026
  },
  "tv|diplomat": {
   "id_match": "exact",
@@ -1181,6 +1217,12 @@
   "tmdb_id": 108978,
   "year": 2022
  },
+ "tv|real housewives of london": {
+  "id_match": "exact",
+  "imdb_id": "tt34333196",
+  "tmdb_id": 275387,
+  "year": 2025
+ },
  "tv|real housewives of new york city": {
   "id_match": "exact",
   "imdb_id": "tt1191056",
@@ -1384,5 +1426,11 @@
   "imdb_id": "tt11041332",
   "tmdb_id": 117488,
   "year": 2021
+ },
+ "tv|yellowstone": {
+  "id_match": "exact",
+  "imdb_id": "tt4236770",
+  "tmdb_id": 73586,
+  "year": 2018
  }
 }
