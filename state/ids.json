@@ -401,6 +401,12 @@
   "tmdb_id": 634492,
   "year": 2024
  },
+ "movie|madden": {
+  "id_match": "exact",
+  "imdb_id": "tt24818230",
+  "tmdb_id": 1131943,
+  "year": 2026
+ },
  "movie|masterplan": {
   "id_match": "exact",
   "imdb_id": "tt38672588",
@@ -424,6 +430,12 @@
   "imdb_id": "tt0212338",
   "tmdb_id": 1597,
   "year": 2000
+ },
+ "movie|mickey 17": {
+  "id_match": "exact",
+  "imdb_id": "tt12299608",
+  "tmdb_id": 696506,
+  "year": 2025
  },
  "movie|minions and monsters": {
   "id_match": "exact",
@@ -491,6 +503,18 @@
   "tmdb_id": 1185806,
   "year": 2026
  },
+ "movie|perfect liars": {
+  "id_match": "exact",
+  "imdb_id": "tt18351090",
+  "tmdb_id": 1568060,
+  "year": 2026
+ },
+ "movie|planes trains and automobiles": {
+  "id_match": "exact",
+  "imdb_id": "tt0093748",
+  "tmdb_id": 2609,
+  "year": 1987
+ },
  "movie|polar express": {
   "id_match": "exact",
   "imdb_id": "tt0338348",
@@ -538,6 +562,12 @@
   "imdb_id": "tt50969289",
   "tmdb_id": 1823907,
   "year": 2026
+ },
+ "movie|santa claus is comin to town": {
+  "id_match": "exact",
+  "imdb_id": "tt0066327",
+  "tmdb_id": 13400,
+  "year": 1970
  },
  "movie|santa clause": {
   "id_match": "exact",
@@ -599,6 +629,12 @@
   "tmdb_id": 675871,
   "year": 2026
  },
+ "movie|symphony of dance": {
+  "id_match": "exact",
+  "imdb_id": "tt34902686",
+  "tmdb_id": 1674241,
+  "year": 2026
+ },
  "movie|tenzing": {
   "id_match": "exact",
   "imdb_id": "tt6262770",
@@ -639,6 +675,12 @@
   "id_match": "exact",
   "imdb_id": "tt40856286",
   "tmdb_id": 1654566,
+  "year": 2026
+ },
+ "movie|way of the warrior kid": {
+  "id_match": "exact",
+  "imdb_id": "tt32213169",
+  "tmdb_id": 1280115,
   "year": 2026
  },
  "movie|were the millers": {
@@ -1185,6 +1227,12 @@
   "id_match": "exact",
   "imdb_id": "tt44941753",
   "tmdb_id": 333533,
+  "year": 2026
+ },
+ "tv|oobah scams for a better tomorrow": {
+  "id_match": "exact",
+  "imdb_id": "tt50688819",
+  "tmdb_id": 341164,
   "year": 2026
  },
  "tv|percy jackson and the olympians": {
