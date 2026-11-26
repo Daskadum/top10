@@ -107,6 +107,12 @@
   "tmdb_id": 12113,
   "year": 2008
  },
+ "movie|buffalo miracle": {
+  "id_match": "exact",
+  "imdb_id": "tt45117594",
+  "tmdb_id": 1764131,
+  "year": 2026
+ },
  "movie|cat in the hat": {
   "id_match": "exact",
   "imdb_id": "tt2321555",
@@ -262,6 +268,12 @@
   "imdb_id": "tt2709692",
   "tmdb_id": 360920,
   "year": 2018
+ },
+ "movie|grumpy old men": {
+  "id_match": "exact",
+  "imdb_id": "tt0107050",
+  "tmdb_id": 11520,
+  "year": 1993
  },
  "movie|guarding stars": {
   "id_match": "exact",
@@ -753,6 +765,12 @@
   "id_match": "exact",
   "imdb_id": "tt14218830",
   "tmdb_id": 125935,
+  "year": 2021
+ },
+ "tv|acapulco": {
+  "id_match": "exact",
+  "imdb_id": "tt13567344",
+  "tmdb_id": 133727,
   "year": 2021
  },
  "tv|all the queens men": {
