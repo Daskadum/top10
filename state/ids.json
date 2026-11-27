@@ -365,6 +365,12 @@
   "tmdb_id": 13353,
   "year": 1966
  },
+ "movie|jlo show": {
+  "id_match": "exact",
+  "imdb_id": "tt46076014",
+  "tmdb_id": 1773727,
+  "year": 2026
+ },
  "movie|jumanji welcome to the jungle": {
   "id_match": "exact",
   "imdb_id": "tt2283362",
@@ -382,6 +388,12 @@
   "imdb_id": "tt14205554",
   "tmdb_id": 803796,
   "year": 2025
+ },
+ "movie|little fockers": {
+  "id_match": "exact",
+  "imdb_id": "tt0970866",
+  "tmdb_id": 39451,
+  "year": 2010
  },
  "movie|lorax": {
   "id_match": "exact",
@@ -814,6 +826,12 @@
   "imdb_id": "tt0898266",
   "tmdb_id": 1418,
   "year": 2007
+ },
+ "tv|big city greens": {
+  "id_match": "exact",
+  "imdb_id": "tt7165904",
+  "tmdb_id": 80587,
+  "year": 2018
  },
  "tv|black doves": {
   "id_match": "exact",
@@ -1379,6 +1397,12 @@
   "tmdb_id": 95480,
   "year": 2022
  },
+ "tv|small town trouble texas": {
+  "id_match": "exact",
+  "imdb_id": "tt49909449",
+  "tmdb_id": 332205,
+  "year": 2026
+ },
  "tv|sopranos": {
   "id_match": "exact",
   "imdb_id": "tt0141842",
@@ -1414,6 +1438,12 @@
   "imdb_id": "tt31710249",
   "tmdb_id": 248830,
   "year": 2025
+ },
+ "tv|stillwater": {
+  "id_match": "exact",
+  "imdb_id": "tt13135714",
+  "tmdb_id": 111834,
+  "year": 2020
  },
  "tv|survivor": {
   "id_match": "exact",
