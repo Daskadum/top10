@@ -29,6 +29,12 @@
   "tmdb_id": 13479,
   "year": 1973
  },
+ "movie|a christmas story": {
+  "id_match": "exact",
+  "imdb_id": "tt0085334",
+  "tmdb_id": 850,
+  "year": 1983
+ },
  "movie|a dogs perfect christmas": {
   "id_match": "exact",
   "imdb_id": "tt38515310",
@@ -797,6 +803,12 @@
   "tmdb_id": 258742,
   "year": 2025
  },
+ "tv|andrew tate toxic empire": {
+  "id_match": "exact",
+  "imdb_id": "tt50289581",
+  "tmdb_id": 343245,
+  "year": 2026
+ },
  "tv|awkwafina the unlikely cook": {
   "id_match": "exact",
   "imdb_id": "tt38992068",
@@ -844,6 +856,12 @@
   "imdb_id": "tt21832348",
   "tmdb_id": 211201,
   "year": 2022
+ },
+ "tv|bobs burgers": {
+  "id_match": "exact",
+  "imdb_id": "tt1561755",
+  "tmdb_id": 32726,
+  "year": 2011
  },
  "tv|body": {
   "id_match": "exact",
@@ -1240,6 +1258,12 @@
   "imdb_id": "tt39469996",
   "tmdb_id": 322267,
   "year": 2026
+ },
+ "tv|next level baker": {
+  "id_match": "exact",
+  "imdb_id": "tt38642046",
+  "tmdb_id": 297025,
+  "year": 2025
  },
  "tv|nobody wants this": {
   "id_match": "exact",
