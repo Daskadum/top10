@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T14:02:29-05:00",
+ "generated_at": "2026-11-27T22:19:53-05:00",
  "services": {
   "netflix": {
    "official": true,
@@ -254,7 +254,7 @@
       "imdb_id": "tt18351090",
       "tmdb_id": 1568060,
       "id_match": "exact",
-      "raw_title": "Perfect Liars / Perfectos Mentirosos"
+      "raw_title": "Perfect Liars / Perfectos Mentirosos (International Original – Spain)"
      },
      {
       "rank": 4,
@@ -263,7 +263,8 @@
       "year": 2026,
       "imdb_id": "tt37180686",
       "tmdb_id": 1596275,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Drive - The Pretenders (International Original – Germany)"
      },
      {
       "rank": 5,
@@ -273,7 +274,7 @@
       "imdb_id": "tt37522541",
       "tmdb_id": 1507696,
       "id_match": "exact",
-      "raw_title": "Apocalypse Z: New World / Apocalipsis Z: Nuevo Mundo"
+      "raw_title": "Apocalypse Z: New World / Apocalipsis Z: Nuevo Mundo (International Original – Spain)"
      },
      {
       "rank": 6,
@@ -318,7 +319,8 @@
       "year": 2026,
       "imdb_id": "tt34339725",
       "tmdb_id": 1378537,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Mirzapur: The Movie (International Original – India)"
      }
     ]
    },
@@ -355,7 +357,8 @@
       "year": 2026,
       "imdb_id": "tt39943756",
       "tmdb_id": 303044,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Campus Drivers (International Original – France)"
      },
      {
       "rank": 4,
@@ -382,7 +385,8 @@
       "year": 2026,
       "imdb_id": "tt45246384",
       "tmdb_id": 303745,
-      "id_match": "exact"
+      "id_match": "exact",
+      "raw_title": "Love in Disguise (International Original – South Korea)"
      },
      {
       "rank": 7,
@@ -1250,7 +1254,7 @@
    "movies": {
     "source_url": "https://streamscope.app/peacock",
     "period": [
-     "2026-11-27",
+     null,
      "2026-11-27"
     ],
     "stale": false,
@@ -1350,7 +1354,7 @@
    "series": {
     "source_url": "https://streamscope.app/peacock",
     "period": [
-     "2026-11-27",
+     null,
      "2026-11-27"
     ],
     "stale": false,
